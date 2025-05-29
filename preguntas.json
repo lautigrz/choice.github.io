@@ -265,7 +265,7 @@
                     "e) Sesión",
                     "f) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 1
+                "correcta": 4
             },
             {
                 "texto": "4) Dentro del modelo de capas OSI, las fases que corresponden a la capa Sesión son:",
