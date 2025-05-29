@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <link rel="icon" href="https://th.bing.com/th/id/R.4edefcc4a6e32e4d9d6f18bd56ec8b93?rik=IK8niRhQM5FSzw&pid=ImgRaw&r=0" type="image/png" />
+    <title>Practico</title>
+    <style>
+        .correct {
+            color: green;
+        }
+
+        .incorrect {
+            color: red;
+        }
+
+        body,
+        form,
+        #questions {
+            font-size: 1rem;
+        }
+
+
+        @media (max-width: 768px) {
+
+            body,
+            form,
+            #questions {
+                font-size: 0.9rem;
+            }
+        }
+
+
+        @media (max-width: 480px) {
+
+            body,
+            form,
+            #questions {
+                font-size: 0.8rem;
+            }
+            
+        }
+
+    </style>
+</head>
+<body class="bg-light">
+    <div class="container my-5">
+    
+        <label for="grupoSelect" class="form-label">Selecciona un TP:</label>
+      <select id="grupoSelect" class="form-select mb-3 w-100">
+  <option value="1">Trabajos Practicos de Respuesta Multiple N°1 (CNº 1 P1)</option>
+  <option value="2">Trabajos Practicos de Respuesta Multiple N°2 (CNº 1 P2)</option>
+  <option value="3">Trabajos Practicos de Respuesta Multiple N°3 (COD 1 P3)</option>
+  <option value="4">Trabajos Practicos de Respuesta Multiple N°3 (COD 2 P1)</option>
+  <option value="5">Trabajos Practicos de Respuesta Multiple N°3 (COD 2 P2)</option>
+  <option value="6">Trabajos Practicos de Respuesta Multiple N°3 (COD 2 P3)</option>
+  <option value="7">Trabajos Practicos de Respuesta Multiple N°07 (COD 3 P1)</option>
+  <option value="8">Trabajos Practicos de Respuesta Multiple N°08 (COD 3 P2)</option>
+  <option value="9">Trabajos Practicos de Respuesta Multiple N°09 (COD 4 P1)</option>
+  <option value="10">Trabajos Practicos de Respuesta Multiple N°10 (COD 4 P2)</option>
+  <option value="11">Trabajos Practicos de Respuesta Multiple N°11 (COD 4 P3)</option>
+  <option value="12">Trabajos Practicos de Respuesta Multiple N°12 (COD 4 P4)</option>
+
+    </select>
+        <form id="quizForm">
+            <div id="questions"></div>
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary mt-4">Enviar respuestas</button>
+            </div>
+        </form>
+        <div id="result" class="mt-4"></div>
+    </div>
+
+</body>
+
+
+<script src="../js/practicos.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css" />
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const elemento = document.getElementById('grupoSelect');
+    const choices = new Choices(elemento, {
+      searchEnabled: false,
+      itemSelectText: '',
+      shouldSort: false
+    });
+  });
+</script>
+
+
+</html>
