@@ -294,11 +294,11 @@
             {
                 "texto": "6) Las Pilas de Protocolos basadas en Modelo Estándar OSI están unidas a través de la Capa Transporte.",
                 "opciones": [
-                    "a) Falso",
+                    "a) Falso", 
                     "b) Verdadero"
                 ],
                 
-                "correcta": 1
+                "correcta": 0
             },
             {
                 "texto": "7) Las Pilas de Protocolos basadas en Modelo Estándar OSI están unidas a través de la Capa Física.",
@@ -306,7 +306,7 @@
                     "a) Verdadero",
                     "b) Falso"
                 ],
-                "correcta": 1
+                "correcta": 0
             },
             {
                 "texto": "8) Dentro del modelo de capas OSI, el orden de los distintos paquetes que son enviados en un proceso de comunicación se implementa en la capa transporte:",
