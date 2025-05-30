@@ -38,8 +38,8 @@ function mostrarPreguntas(numeroGrupo) {
   const tamañoGrupo = 10;
   const grupo = dividirEnGrupos(todasLasPreguntas, tamañoGrupo)[numeroGrupo - 1];
 
-  let contador = 0;
-  let contadorPractico = numeroGrupo;
+
+
 
   grupo.forEach((pregunta, i) => {
     const div = document.createElement("div");
@@ -47,7 +47,7 @@ function mostrarPreguntas(numeroGrupo) {
 
     div.innerHTML = `<strong>${pregunta.texto}</strong><br>
         <div class="mt-3 text-center">
-          <img src="../images/multiple${contadorPractico}/image${contador}.png" class="img-fluid rounded" alt="Imagen de la pregunta ${i}">
+          <img src="../images/${pregunta.multiple}/image${pregunta.id}.png" class="img-fluid rounded" alt="Imagen de la pregunta ${i}">
         </div>`;
 
     pregunta.opciones.forEach((opcion, j) => {
@@ -59,7 +59,7 @@ function mostrarPreguntas(numeroGrupo) {
             `;
     });
 
-    contador++;
+  
     preguntasDiv.appendChild(div);
   });
 
@@ -117,15 +117,19 @@ function mostrarPreguntasLista(preguntas) {
   preguntas.forEach((pregunta, i) => {
     const div = document.createElement("div");
     div.classList.add("mb-4", "p-3", "border", "rounded", "bg-white", "shadow-sm");
-    div.innerHTML = `<strong>${pregunta.texto}</strong><br>`;
 
-    pregunta.opciones.forEach((opcion, j) => {
+    div.innerHTML = `<strong>${pregunta.texto}</strong><br>
+        <div class="mt-3 text-center">
+          <img src="../images/${pregunta.multiple}/image${pregunta.id}.png" class="img-fluid rounded" alt="Imagen de la pregunta ${i}">
+        </div>`
+
+  pregunta.opciones.forEach((opcion, j) => {
       div.innerHTML += `
-        <div class="form-check"><br>
+              <div class="form-check"><br>
                 <input class="form-check-input" type="radio" name="pregunta${i}" id="p${i}o${j}" value="${j}">
                 <label class="form-check-label" for="p${i}o${j}">${opcion}</label>
               </div>
-      `;
+            `;
     });
 
     questionsDiv.appendChild(div);

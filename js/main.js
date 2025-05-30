@@ -16,7 +16,7 @@ fetch('./preguntas.json')
            
                 div.innerHTML += `
         <div class="mt-3 text-center">
-          <img src="images/multiple${contadorPractico}/image${contador}.png" class="img-fluid rounded" alt="Imagen de la pregunta ${i}">
+          <img src="images/${pregunta.multiple}/image${pregunta.id}.png" class="img-fluid rounded" alt="Imagen de la pregunta ${i}">
         </div>
       `;
          

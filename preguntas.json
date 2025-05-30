@@ -8,7 +8,9 @@
                     "d) Amplificador", 
                     "e) Demodulador", 
                     "f) Ninguna de las Anteriores es correcta"],
-                "correcta": 4
+                "correcta": 4,
+                "multiple": "multiple1",
+                "id":0
              
             },
             {
@@ -20,7 +22,9 @@
                     "d) Jitter", 
                     "e) Velocidad de Transmisión Serie", 
                     "f) Ninguna de las Anteriores es correcta"],
-                "correcta": 4
+                "correcta": 4,
+                "multiple": "multiple1",
+                "id":1
          
 
             },
@@ -34,7 +38,9 @@
                     "f) Multiplexor", 
                     "g) Router", 
                     "h) Ninguna de las Anteriores es Correcta"],
-                "correcta": 0
+                "correcta": 0,
+                "multiple": "multiple1",
+                "id":2
             },
             {
                 "texto": "4) Los sistemas de comunicación a larga distancia envían una señal oscilante-continua (Onda Senoidal), llamada portadora que es modificada por los transmisores; este concepto se aplica para comunicaciones analógicas y digitales y responde a:",
@@ -45,7 +51,9 @@
                     "d) Codificación Digital",
                     "e) Ancho de Banda",
                     "f) Ninguna de las Anteriores es correcta"],
-                "correcta": 5
+                "correcta": 5,
+                "multiple": "multiple1",
+                "id":3
             },
             {
                 "texto": "5) El espectro o segmento de frecuencia donde un emisor puede transmitir, acotado por su frecuencia más baja y más alta, que cuanto mayor sea el segmento se aumenta la capacidad de transmisión del canal, por lo tanto, aumenta la velocidad de transmisión de datos. Esta es una medida de datos transmisibles y nos referimos a:",
@@ -57,7 +65,9 @@
                     "e) Velocidad de Transmisión Serie",
                     "f) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 0
+                "correcta": 0,
+                "multiple": "multiple1",
+                "id":4
             },
             {
                 "texto": "6) El uso del concepto de Multiplexación por División de Tiempo (TDM) permite que varios pares fuentes se comuniquen al mismo tiempo con varios pares destino convirtiendo el medio de transmisión en:",
@@ -71,7 +81,9 @@
 
 
                 ],
-                "correcta": 2
+                "correcta": 2,
+                "multiple": "multiple1",
+                "id":5
             },
             {
                 "texto": "7) La transmisión de dos o más señales portadoras al mismo tiempo dentro de un mismo medio, pero a diferentes frecuencias da origen al concepto de:",
@@ -84,7 +96,9 @@
                     "f) Ninguna de las Anteriores es correcta"
 
                 ],
-                "correcta": 4
+                "correcta": 4,
+                "multiple": "multiple1",
+                "id":6
             },
             {
                 "texto": "8)  El número de veces por segundo que puede cambiar una señal portadora de estado (modulación) de la línea y es sinónimo de BAUDS se lo denomina:",
@@ -95,7 +109,9 @@
                     "d) Velocidad de Acceso a un canal",
                     "e) Velocidad de Modulación",
                     "f) Ninguna de las Anteriores es correcta"],
-                "correcta": 4
+                "correcta": 4,
+                "multiple": "multiple1",
+                "id":7
             },
             {
                 "texto": "9) La convergencia de conceptos entre telecomunicaciones y el procesamiento de información se lo denomina Teleinformática o Telemática y se lo utiliza para resolver los problemas de:",
@@ -106,7 +122,9 @@
                     "d) Funciones de Sistema Operativo. Funciones de Administración de Software de Aplicación",
                     "e) Ambas a y c",
                     "f Ninguna de las Anteriores es correcta"],
-                "correcta": 4
+                "correcta": 4,
+                "multiple": "multiple1",
+                "id":8
             },
             {
                 "texto": "10) Anterior al puerto USB utilizado en las computadoras personales existía para conectar el mouse el puerto RS232. Cuando se está refiriendo al puerto RS 232 se puede decir que corresponde a:",
@@ -117,14 +135,18 @@
                     "d) Una norma serie para comunicaciones sincronas creada originalmente para definir la interacción entre una computadora y un procesador Front-End",
                     "e) Ninguna de las Anteriores es Correcta"
                 ],
-                "correcta": 1
+                "correcta": 1,
+                "multiple": "multiple1",
+                "id":9
             }, {
                 "texto": "1) El uso de El Sistema distribuido de coordinación y control de colisiones (CSMA/CD) evita siempre las colisiones, utilizando la aplicación de un retardo (Ranura) variable para los que solicitan el uso del canal.",
                 "opciones": [
                     "a) Verdadero",
                     "b) Falso"
                 ],
-                "correcta": 1
+                "correcta": 1,
+                "multiple": "multiple2",
+                "id":0
             },
             {
                 "texto": "2) El Acuerdo común establecido para que la comunicación se llevara a cabo y para que los diferentes fabricantes o desarrolladores de tecnología se fundamentaran en eso para sus desarrollos y de esa forma garantizan la conectividad y operatividad de las redes de datos se lo denomina:",
@@ -138,7 +160,9 @@
                     "g) Todas las Anteriores son Correctas",
                     "h) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 5
+                "correcta": 5,
+                "multiple": "multiple2",
+                "id":1
             },
             {
                 "texto": "3) El conjunto de programas que componen un formato/procedimiento utilizado para la transmisión de información se denomina:",
@@ -150,7 +174,9 @@
                     "e) Software de Aplicación",
                     "f) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 1
+                "correcta": 1,
+                "multiple": "multiple2",
+                "id":2
             },
             {
                 "texto": "4) La aplicación de los modelos de estándares de redes en el uso de los protocolos tiene como fin:",
@@ -162,7 +188,9 @@
                     "e) El uso en dispositivos domóticos",
                     "f) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 1
+                "correcta": 1,
+                "multiple": "multiple2",
+                "id":3
             },
             {
                 "texto": "5)  Dentro del proceso de comunicación entre un emisor y un receptor mediante el envío de una trama binaria finita, el uso del bit de paridad es aplicable a:",
@@ -174,7 +202,9 @@
                     "e) Todas las anteriores son correctas",
                     "f) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 0
+                "correcta": 0,
+                "multiple": "multiple2",
+                "id":4
             },
             {
                 "texto": "6) Los códigos autocorrectores de errores como distancia de Hamming utilizan paridad dentro de su operatoria.",
@@ -182,7 +212,9 @@
                     "a) Verdadero",
                     "b) Falso"
                 ],
-                "correcta": 0
+                "correcta": 0,
+                "multiple": "multiple2",
+                "id":5
             },
             {
                 "texto": "7) Dentro del marco de las comunicaciones en redes ce computadoras, la unidad de información compuesta por una cantidad de datos determinada se la denomina:",
@@ -194,7 +226,9 @@
                     "e) Paquete",
                     "f) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 4
+                "correcta": 4,
+                "multiple": "multiple2",
+                "id":6
             },
             {
                 "texto": "8) Los errores en la comunicación se producen porque los sistemas de transmisión son susceptibles a interferencias que pueden causar:",
@@ -206,7 +240,9 @@
                     "e) Todas las Anteriores son Correctas",
                     "f) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 4
+                "correcta": 4,
+                "multiple": "multiple2",
+                "id":7
 
             },
             {
@@ -218,7 +254,9 @@
                     "d) Al final dentro del bloque de datos",
                     "e)Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 3
+                "correcta": 3,
+                "multiple": "multiple2",
+                "id":8
 
             },
             {
@@ -233,7 +271,9 @@
                     "g) Todas las Anteriores son Correctas",
                     "h) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 6
+                "correcta": 6,
+                "multiple": "multiple2",
+                "id":9
 
             }, {
                 "texto": "1) El Estándar de Modelo de Capas OSI, muy similar al Estándar SNA de IBM, es un modelo que está basado en:",
@@ -245,7 +285,9 @@
                     "e) Un Modelo diseñado para Sistemas Cloud.",
                     "f) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 3
+                "correcta": 3,
+                "multiple": "multiple3",
+                "id":0
             },
             {
                 "texto": "2) Dentro del modelo de capas OSI, el control de calidad en lo que respecta a detección de errores se realiza en la capa transporte:",
@@ -253,7 +295,9 @@
                     "a) Verdadero",
                     "b) Falso"
                 ],
-                "correcta": 0
+                "correcta": 0,
+                "multiple": "multiple3",
+                "id":1
             },
             {
                 "texto": "3) Dentro del modelo de capas OSI, el control de la comunicación y envío de mensajes a su destino entre terminales se los realiza en la capa:",
@@ -265,7 +309,9 @@
                     "e) Sesión",
                     "f) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 4
+                "correcta": 4,
+                "multiple": "multiple3",
+                "id":2
             },
             {
                 "texto": "4) Dentro del modelo de capas OSI, las fases que corresponden a la capa Sesión son:",
@@ -277,7 +323,9 @@
                     "e) Ambas a, c, y d",
                     "f) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 4
+                "correcta": 4,
+                "multiple": "multiple3",
+                "id":3
             },
             {
                 "texto": "5) Dentro del modelo de capas OSI, la definición del Hardware de Red Básico y las características mecánicas, eléctricas y funcionales de las Líneas entre terminales corresponden a la capa:",
@@ -289,7 +337,9 @@
                     "e) Sesión",
                     "f) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 0
+                "correcta": 0,
+                "multiple": "multiple3",
+                "id":4
             },
             {
                 "texto": "6) Las Pilas de Protocolos basadas en Modelo Estándar OSI están unidas a través de la Capa Transporte.",
@@ -298,7 +348,9 @@
                     "b) Verdadero"
                 ],
                 
-                "correcta": 1
+                "correcta": 1,
+                "multiple": "multiple3",
+                "id":5
             },
             {
                 "texto": "7) Las Pilas de Protocolos basadas en Modelo Estándar OSI están unidas a través de la Capa Física.",
@@ -306,7 +358,9 @@
                     "a) Verdadero",
                     "b) Falso"
                 ],
-                "correcta": 1
+                "correcta": 1,
+                "multiple": "multiple3",
+                "id":6
             },
             {
                 "texto": "8) Dentro del modelo de capas OSI, el orden de los distintos paquetes que son enviados en un proceso de comunicación se implementa en la capa transporte:",
@@ -314,7 +368,9 @@
                     "a) Verdadero",
                     "b) Falso"
                 ],
-                "correcta": 0
+                "correcta": 0,
+                "multiple": "multiple3",
+                "id":7
             },
             {
                 "texto": "9) Dentro del modelo de capas OSI, el formato del paquete a transmitir en lo que respecta a los campos que posee se los define en la capa:",
@@ -326,7 +382,9 @@
                     "e) Red",
                     "f) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 1
+                "correcta": 1,
+                "multiple": "multiple3",
+                "id":8
             },
             {
                 "texto": "10) Dentro del modelo de capas OSI, la encriptación / desencriptación de datos es una función efectuada dentro de la capa Presentación.",
@@ -334,7 +392,9 @@
                     "a) Verdadero",
                     "b) Falso"
                 ],
-                "correcta": 0
+                "correcta": 0,
+                "multiple": "multiple3",
+                "id":9
             },
             {
                 "texto": "1) Dentro de la Topología Tipo Bus, el corte de uno de los tramos de cable conectado a la misma produce:",
@@ -346,7 +406,9 @@
                     "e) Todas las Anteriores son Correctas",
                     "f) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 1
+                "correcta": 1,
+                "multiple": "multiple4",
+                "id":0
             },
             {
                 "texto": "2) Se dice que la Topología tipo Bus es muy confiable cuando tenemos una cantidad limitada de máquinas conectadas (Entre 7 y 12) puesto que superar dicho límite implica la aparición de mensajes de Colisión por la Difusión de todos los paquetes.",
@@ -354,7 +416,9 @@
                     "a) Verdadero",
                     "b) Falso"
                 ],
-                "correcta": 0
+                "correcta": 0,
+                "multiple": "multiple4",
+                "id":1
             },
             {
                 "texto": "3) La Distribución Física de una Red de Telecomunicaciones, o forma en que los nodos de una red están conectados con todos sus componentes se lo denomina:",
@@ -368,7 +432,9 @@
                     "g) Ambas a y c",
                     "h) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 1
+                "correcta": 1,
+                "multiple": "multiple4",
+                "id":2
             },
             {
                 "texto": "4) Cuando nos referimos a la transmisión de ondas de radio en mayor frecuencia y decimos que este medio de transmisión funciona mejor si hay trayectoria libre entre la antena transmisora y receptora nos referimos a:",
@@ -380,7 +446,9 @@
                     "e) Fibra Óptica",
                     "f) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 3
+                "correcta": 3,
+                "multiple": "multiple4",
+                "id":3
             },
             {
                 "texto": "5) Dentro de los medios de transmisión y refiriéndonos al cable Multipar, el mismo tiene un recubrimiento plástico y un trenzado que posibilita:",
@@ -394,7 +462,9 @@
                     "g) Ambas a y d",
                     "h) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 5
+                "correcta": 5,
+                "multiple": "multiple4",
+                "id":4
             },
             {
                 "texto": "6) Dentro de los medios de transmisión el uso de la fibra óptica nos da las siguientes ventajas:",
@@ -410,7 +480,9 @@
                     "i) Todas las anteriores son correctas",
                     "j) Ninguna de las anteriores es Correcta."
                 ],
-                "correcta": 6
+                "correcta": 6,
+                "multiple": "multiple4",
+                "id":5
             },
             {
                 "texto": "7) Dentro de una instalación de Cableado Estructurado, el backbone se coloca con una bandeja entre el techo y el entretecho construido de placas de yeso acústicas. Dicho espacio se lo denomina:",
@@ -423,7 +495,9 @@
                     "f) Antetecho",
                     "g) Ninguna de las Anteriores es Correcta"
                 ],
-                "correcta": 3
+                "correcta": 3,
+                "multiple": "multiple4",
+                "id":6
             },
             {
                 "texto": "8) El Servicio de Datos/Directorio que se encarga de registrar a Nivel Internacional los nombres de Dominio que corresponde a una determinada Dirección IP se lo denomina:",
@@ -435,7 +509,9 @@
                     "e) Todas las Anteriores son Correctas",
                     "f) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 0
+                "correcta": 0,
+                "multiple": "multiple4",
+                "id":7
             },
             {
                 "texto": "9) El satélite utiliza para las comunicaciones transmisión por:",
@@ -447,7 +523,9 @@
                     "e) Todas las Anteriores son Correctas",
                     "f) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 3
+                "correcta": 3,
+                "multiple": "multiple4",
+                "id":8
             },
             {
                 "texto": "10) Los elementos que componen la estructura de una red son:",
@@ -461,7 +539,9 @@
                     "g) Ambas a, b y c",
                     "h) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 6
+                "correcta": 6,
+                "multiple": "multiple4",
+                "id":9
             },
 
 
@@ -479,7 +559,9 @@
                     "g) Land Driver",
                     "h) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 1
+                "correcta": 1,
+                "multiple": "multiple5",
+                "id":0
             },
             {
                 "texto": "2) Dentro de una Topología Estrella, Tecnología Ethernet, la solución de colisiones se hace utilizando:",
@@ -491,7 +573,9 @@
                     "e) Ambas a y b",
                     "f) Ninguna de las Anteriores es correctaa"
                 ],
-                "correcta": 0
+                "correcta": 0,
+                "multiple": "multiple5",
+                "id":1
             },
             {
                 "texto": "3) Dentro de una instalación de cableado tipo Ethernet fino, implementado sobre topología Bus, el corte o la avería del cable provoca:",
@@ -503,7 +587,9 @@
                     "g) El aumento del nivel de colisiones",
                     "h) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 2
+                "correcta": 2,
+                "multiple": "multiple5",
+                "id":2
             },
             {
                 "texto": "4)  La aplicación de la Topología Anillo, Tecnología Token Ring de IBM, opera en un medio compartido con el permiso de acceso en el Pase de Ficha, entregando el control completo de la red al equipo terminal transmisor y con la solicitud de la ficha del resto de los equipos conectados por medio de un mensaje corto:",
@@ -512,7 +598,9 @@
                     "b) Falso"
 
                 ],
-                "correcta": 0
+                "correcta": 0,
+                "multiple": "multiple5",
+                "id":3
             },
             {
                 "texto": "5) Los documentos de comunicación primarios que dan información sobre estándares y tecnologías aplicadas en Internet aprobados por IETF se lo denominan:",
@@ -527,7 +615,9 @@
                     "h) Ninguna de las Anteriores es correcta"
 
                 ],
-                "correcta": 2
+                "correcta": 2,
+                "multiple": "multiple5",
+                "id":4
             },
             {
                 "texto": "6) Dentro de una instalación de cableado tipo Ethernet grueso, implementado sobre topología Bus, existen en los extremos del cable elementos resistivos que permiten mantener constante la impedancia. Nos referimos a:",
@@ -541,7 +631,9 @@
                     "g) Land Driver",
                     "h) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 3
+                "correcta": 3,
+                "multiple": "multiple5",
+                "id":5
             },
             {
                 "texto": "7) La Empresa UNISYS Sudamericana ocupa en la actualidad el tercer piso del edificio de Torneos y Competencias en la Avenida Paseo Colon, de acuerdo al tipo de conexión y el área geográfica que ocupa corresponde a una:",
@@ -552,7 +644,9 @@
                     "d) GAN",
                     "e) PAN"
                 ],
-                "correcta": 0
+                "correcta": 0,
+                "multiple": "multiple5",
+                "id":6
             },
             {
                 "texto": "8) Cuando Hablamos de Token Ring, Tecnología para uso exclusivo en Topología Bus, la operación de la misma en lo que respecta al acceso al canal se hace a través del Pase de Ficha y el Transmisor tiene:",
@@ -564,7 +658,9 @@
                     "e) La afirmación de la pregunta es incorrecta",
                     "f) Ninguna de las Anteriores es correcta"
                 ],
-                "correcta": 4
+                "correcta": 4,
+                "multiple": "multiple5",
+                "id":7
             },
             {
                 "texto": "9) El Servicio de Datos/Directorio que se encarga de registrar a Nivel Nacional los nombres de Dominio que corresponde a una determinada Dirección IP se lo denomina:",
@@ -579,7 +675,9 @@
 
                     "g) Todas las Anteriores son correctas"
                 ],
-                "correcta": 1
+                "correcta": 1,
+                "multiple": "multiple5",
+                "id":8
             },
             {
                 "texto": "10) Cada Topología combinada con el uso de distintos tipos de enlaces poseen ventajas y desventajas como la incompatibilidad de los medios de transmisión, limitación en el número de estaciones y limitación en el alcance de las redes, esto dio origen a:",
@@ -591,7 +689,9 @@
                     "e) Todas las anteriores son correctas",
                     "f) Ninguna de las anteriores es correcta"
                 ],
-                "correcta": 3
+                "correcta": 3,
+                "multiple": "multiple5",
+                "id":9
             },
             {
     "texto": "1) Dentro de los Objetivos planteados con la creación de Internet 2 (WWW) podemos detallar:",
@@ -604,7 +704,9 @@
       "f) Ambas A, C y D",
       "g) Ninguna de las Anteriores es Correcta"
     ],
-    "correcta": 5
+    "correcta": 5,
+                "multiple": "multiple6",
+                "id":0
   },
   {
     "texto": "2) Dentro de la Organización de Internet, los Documentos de comunicación primario que dan información sobre los estándares y tecnologías corresponden a:",
@@ -618,7 +720,9 @@
       "g) ARIN",
       "h) Ninguna de las Anteriores es Correcta"
     ],
-    "correcta": 1
+    "correcta": 1,
+                "multiple": "multiple6",
+                "id":1
   },
   {
     "texto": "3) Dentro de una instalación de Cableado Estructurado, el lugar donde se realiza la conexión entre el cableado estructurado y el acceso exterior del ISP, que debe cumplir con la norma ANSI/EIA/TIA 569 se lo denomina:",
@@ -632,7 +736,9 @@
       "g) Todas las Anteriores son correctas",
       "h) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 2
+    "correcta": 2,
+                "multiple": "multiple6",
+                "id":2
   },
   {
     "texto": "4) La Red WAN que entrega señal de comunicaciones con acceso a Internet 2 a la República Argentina corresponde a:",
@@ -646,7 +752,9 @@
       "g) vBNS",
       "h) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 1
+    "correcta": 1,
+                "multiple": "multiple6",
+                "id":3
   },
   {
     "texto": "5) Si UD realiza el control de sus sistemas en una red de subterráneos, distribuido en un área geográfica metropolitana (MAN), el backbone de comunicaciones que une los subcentros de procesamiento (Redes LAN) y en la sala de equipos principal puede estar soportado por:",
@@ -660,7 +768,9 @@
       "g) Infrarrojo",
       "h) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 1
+    "correcta": 1,
+                "multiple": "multiple6",
+                "id":4
   },
   {
     "texto": "6) La Red WAN Troncal Digital Nacional de Alta Capacidad conecta a once ciudades con una capacidad de 10 Gbps... Esta red corresponde a:",
@@ -674,7 +784,9 @@
       "g) INNOVA RED",
       "h) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 6
+    "correcta": 6,
+                "multiple": "multiple6",
+                "id":5
   },
   {
     "texto": "7) La Organización Comercial que provee servicios o Acceso a Internet a sus Suscriptores u Organizaciones (TELCO) se la denomina:",
@@ -688,7 +800,9 @@
       "g) RFC",
       "h) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 3
+    "correcta": 3,
+                "multiple": "multiple6",
+                "id":6
   },
   {
     "texto": "8) Dentro del Ámbito Nacional, de la Organización CABASE podemos afirmar que:",
@@ -701,7 +815,9 @@
       "g) Ambas a, c, d y e",
       "h) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 5
+    "correcta": 5,
+                "multiple": "multiple6",
+                "id":7
   },
   {
     "texto": "9) Dentro de la Organización de Internet, el Ente sin fines de lucro con base en los Estados Unidos... Este organismo corresponde a:",
@@ -715,7 +831,9 @@
       "g) ARIN",
       "h) Ninguna de las Anteriores es Correcta"
     ],
-    "correcta": 3
+    "correcta": 3,
+                "multiple": "multiple6",
+                "id":8
   },
   {
     "texto": "10) Dentro de la Organización Nacional de Internet de un País... Este organismo corresponde a:",
@@ -729,7 +847,9 @@
       "g) ARIN",
       "h) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 0
+    "correcta": 0,
+                "multiple": "multiple6",
+                "id":9
   },
   {
     "texto": "1) Un dispositivo de red que se desempeña como BRIDGE trabaja dentro del modelo de OSI desde la Capa Física hasta la Capa Enlace de datos:",
@@ -737,7 +857,9 @@
       "a) Verdadero.",
       "b) Falso."
     ],
-    "correcta": 0
+    "correcta": 0,
+                "multiple": "multiple7",
+                "id":0
   },
   {
     "texto": "2) Dentro de una Topología de Red en Anillo, el control de conexión de los Nodos se puede realizar por:",
@@ -751,7 +873,9 @@
       "g) Ambas b y c.",
       "h) Ninguna de las Anteriores es correcta."
     ],
-    "correcta": 5
+    "correcta": 5,
+                "multiple": "multiple7",
+                "id":1
   },
   {
     "texto": "3) Dentro de los indicadores de control de un Hub /Concentrador existe aquel que mide el nivel de colisiones:",
@@ -759,7 +883,9 @@
       "a) Verdadero.",
       "b) Falso."
     ],
-    "correcta": 0
+    "correcta": 0,
+                "multiple": "multiple7",
+                "id":2
   },
   {
     "texto": "4) Para extender una LAN y unir dos segmentos de red a una distancia superior a los 600 metros podemos utilizar:",
@@ -771,7 +897,9 @@
       "g) Ambas b y d",
       "f) Ninguna de las anteriores es Correcta."
     ],
-    "correcta": 2
+    "correcta": 2,
+                "multiple": "multiple7",
+                "id":3
   },
   {
     "texto": "5) Un dispositivo de red que se desempeña como ROUTER trabaja dentro del modelo de OSI desde la Capa Física hasta la Capa Enlace de datos:",
@@ -779,7 +907,9 @@
       "a) Verdadero.",
       "b) Falso."
     ],
-    "correcta": 1
+    "correcta": 1,
+                "multiple": "multiple7",
+                "id":4
   },
   {
     "texto": "6) El Componente de hardware de una computadora externo a la Unidad Central de Proceso que mantiene la misma conectada físicamente a la red; que realiza el filtrado de paquetes de manera tal de entregar al procesador y la memoria los paquetes que tienen como destino final el ordenador en cuestión se lo denomina:",
@@ -793,7 +923,9 @@
       "g) Hub.",
       "h) Ninguna de las Anteriores es correcta."
     ],
-    "correcta": 2
+    "correcta": 2,
+                "multiple": "multiple7",
+                "id":5
   },
   {
     "texto": "7) El componente teleinformático de red que permite entregar señal de datos/canal de comunicaciones bajo difusión; que a su vez compensa la velocidad de los distintos medios físicos conectados al mismo y realiza la amplificación de la señal para retransmitirla se lo denomina:",
@@ -807,7 +939,9 @@
       "g) Land Driver.",
       "h) Ninguna de las Anteriores es correcta."
     ],
-    "correcta": 5
+    "correcta": 5,
+                "multiple": "multiple7",
+                "id":6
   },
   {
     "texto": "8) Dentro de un Nodo con varios Servidores con mucha carga de procesamiento, puede existir una computadora dedicada exclusivamente a las comunicaciones con el mundo exterior que la denominamos:",
@@ -821,7 +955,9 @@
       "g) Server.",
       "h) Ninguna de las Anteriores es correcta."
     ],
-    "correcta": 4
+    "correcta": 4,
+                "multiple": "multiple7",
+                "id":7
   },
   {
     "texto": "9) En una Topología en Estrella, el Componente de Hardware que se caracteriza por hacer Difusión de los Paquetes (No conmuta), que conecta los Equipos Terminales a la misma se lo denomina:",
@@ -835,7 +971,9 @@
       "g) Ambas a, b y c.",
       "h) Ninguna de las Anteriores es correcta."
     ],
-    "correcta": 0
+    "correcta": 0,
+                "multiple": "multiple7",
+                "id":8
   },
   {
     "texto": "10) En una Red con Topología en Estrella, el Componente de Software que realiza la administración y autenticación de accesos a los recursos de la red a través del Software de base que posee los perfiles del usuario para administrar en la Red se lo denomina:",
@@ -849,7 +987,9 @@
       "g) Active Directory.",
       "h) Ninguna de las Anteriores es correcta."
     ],
-    "correcta": 6
+    "correcta": 6,
+                "multiple": "multiple7",
+                "id":9
   },
   {
     "texto": "1) El objetivo de la instalación de un Encaminador o Router es:",
@@ -861,7 +1001,9 @@
       "e) Todas las Anteriores son Correctas.",
       "f) Ninguna de las anteriores es Correcta."
     ],
-    "correcta": 4
+    "correcta": 4,
+                "multiple": "multiple8",
+                "id":0
   },
   {
     "texto": "2) Para conectar dos redes de tipo LAN heterogéneas que utilizan distinta arquitectura, protocolos y formato de datos utilizamos:",
@@ -874,7 +1016,9 @@
       "f) Hub.",
       "g) Ninguna de las Anteriores es Correcta."
     ],
-    "correcta": 0
+    "correcta": 0,
+                "multiple": "multiple8",
+                "id":1
   },
   {
     "texto": "3) Dentro de las funciones en la estructura de telefonía IP – Protocolo H323 se tienen el Procesamiento de Llamada, Señalización, Control de Llamada, Control de Medio (Compresión / descompresión), Programación de Interfaces a través de aplicaciones abiertas y configuración a través de Web Browser (Web Server). Estas funciones son realizadas por:",
@@ -886,7 +1030,9 @@
       "e) Softphones.",
       "f) Ninguna de las Anteriores es correcta."
     ],
-    "correcta": 2
+    "correcta": 2,
+                "multiple": "multiple8",
+                "id":2
   },
   {
     "texto": "4) Una de las características de la telefonía IP es que cada teléfono registrado tiene una o dos copias de seguridad (Niveles de redundancia a Tres Niveles). Esto permite tener uno o dos Backups por cada teléfono. Esta característica se la denomina:",
@@ -898,7 +1044,9 @@
       "e) Todas las Anteriores son correctas.",
       "f) Ninguna de las anteriores es Correcta."
     ],
-    "correcta": 2
+    "correcta": 2,
+                "multiple": "multiple8",
+                "id":3
   },
   {
     "texto": "5) Dentro de las ventajas de la Telefonía IP podemos detallar las siguientes:",
@@ -913,7 +1061,9 @@
       "h) Ambas b, d, e y f.",
       "i) Ninguna de las anteriores es Correcta."
     ],
-    "correcta": 6
+    "correcta": 6,
+                "multiple": "multiple8",
+                "id":4
   },
   {
     "texto": "6) El dispositivo multipuerto que actúa como eje de conmutación, simulando separación de segmentos de red y microsegmentador para permitir el envío de datos a alta velocidad se lo denomina:",
@@ -927,7 +1077,9 @@
       "g) Switch.",
       "h) Ninguna de las Anteriores es correcta."
     ],
-    "correcta": 6
+    "correcta": 6,
+                "multiple": "multiple8",
+                "id":5
   },
   {
     "texto": "7) El tipo de Encaminador/Router que delimita rutas en forma automática con alternativas y cálculo de costos bajo una mínima configuración se lo denomina:",
@@ -941,7 +1093,9 @@
       "g) Primario.",
       "h) Ninguna de las Anteriores es correcta."
     ],
-    "correcta": 2
+    "correcta": 2,
+                "multiple": "multiple8",
+                "id":6
   },
   {
     "texto": "8) El dispositivo de red que se utiliza para extender una LAN, que conecta dos segmentos de red y permite la regeneración de la señal amplificando la misma se lo denomina:",
@@ -955,7 +1109,9 @@
       "g) Land Driver / Repetidor.",
       "h) Ninguna de las Anteriores es correcta."
     ],
-    "correcta": 6
+    "correcta": 6,
+                "multiple": "multiple8",
+                "id":7
   },
   {
     "texto": "9) Para conectar dos redes de tipo LAN homogéneas que utilizan la misma arquitectura, protocolos y formato de datos utilizamos:",
@@ -968,7 +1124,9 @@
       "f) Hub.",
       "g) Ninguna de las Anteriores es Correcta."
     ],
-    "correcta": 2
+    "correcta": 2,
+                "multiple": "multiple8",
+                "id":8
   },
   {
     "texto": "10) Dentro de los componentes de Telefonía sobre IP, para reutilizar los teléfonos analógicos de la instalación de Tipo PBX/Analógicos debemos utilizar:",
@@ -979,7 +1137,9 @@
       "d) Instalar un Softphone.",
       "e) Ninguna de las Anteriores es correcta."
     ],
-    "correcta": 0
+    "correcta": 0,
+                "multiple": "multiple8",
+                "id":9
   },
   {
     "texto": "1) En red LAN, la agrupación lógica de dispositivos y usuarios que están agrupados por función, aplicación o departamento sin tener en cuenta la ubicación del segmento físico se la denomina:",
@@ -991,7 +1151,9 @@
       "e) VLAN",
       "f) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 4
+    "correcta": 4,
+                "multiple": "multiple9",
+                "id":0
   },
   {
     "texto": "2) Dentro del Esquema del Protocolo TCP/IP, cuando hablamos de un Puerto nos referimos a:",
@@ -1005,7 +1167,9 @@
       "g) Todas las Anteriores son correctas",
       "h) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 2
+    "correcta": 2,
+                "multiple": "multiple9",
+                "id":1
   },
   {
     "texto": "3) El Esquema de Datagrama IP nace con la necesidad de trabajar con redes heterogéneas, y permite el paso de un cuadro de una red a otra respetando el paquete original de manera tal de encapsularlo y que el mismo no sea modificado mientras se realice la transmisión:",
@@ -1013,7 +1177,9 @@
       "a) Verdadero",
       "b) Falso"
     ],
-    "correcta": 0
+    "correcta": 0,
+                "multiple": "multiple9",
+                "id":2
   },
   {
     "texto": "4) Dentro del Modelo de Protocolo Internet, los protocolos de transporte utilizados en la capa Host a Host son IP y UDP.",
@@ -1021,7 +1187,9 @@
       "a) Verdadero",
       "b) Falso"
     ],
-    "correcta": 1
+    "correcta": 1,
+                "multiple": "multiple9",
+                "id":3
   },
   {
     "texto": "5) Una red que tiene una combinación de Hardware y Software Heterogéneo, que entrega al usuario la apariencia de un sistema de comunicación integrado y uniforme al cual se conectan muchas computadoras se lo denomina:",
@@ -1033,7 +1201,9 @@
       "e) Todas las Anteriores son correctas",
       "f) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 1
+    "correcta": 1,
+                "multiple": "multiple9",
+                "id":4
   },
   {
     "texto": "6) Dentro del Esquema del Protocolo TCP/IP v4, el esquema de direccionamiento abstracto tiene como Objetivo:",
@@ -1047,7 +1217,9 @@
       "g) Todas las Anteriores son correctas",
       "h) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 5
+    "correcta": 5,
+                "multiple": "multiple9",
+                "id":5
   },
   {
     "texto": "7) Dentro del Esquema del Protocolo TCP/IP el/los componentes que intervienen en el proceso de la comunicación son:",
@@ -1058,7 +1230,9 @@
       "d) Todas las Anteriores son correctas",
       "e) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 3
+    "correcta": 3,
+                "multiple": "multiple9",
+                "id":6
   },
   {
     "texto": "8) Dentro del Esquema del Protocolo TCP/IP, cuando nos referimos a ARP estamos haciendo mención de:",
@@ -1072,7 +1246,9 @@
       "g) Todas las Anteriores son correctas",
       "h) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 0
+    "correcta": 0,
+                "multiple": "multiple9",
+                "id":7
   },
   {
     "texto": "9) Dentro del Esquema del Protocolo TCP/IP, el Router utiliza un protocolo que le permite informar a los Routers vecinos que se encuentra fuera de servicio o congestionado. Dicho protocolo corresponde a:",
@@ -1083,7 +1259,9 @@
       "d) NAT",
       "e) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 4
+    "correcta": 4,
+                "multiple": "multiple9",
+                "id":8
   },
   {
     "texto": "10) Dentro del Modelo de Protocolo TCP/IP v4, la capa Internet cumple con las siguientes funciones:",
@@ -1095,7 +1273,9 @@
       "e) Todas las Anteriores son correctas",
       "f) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 4
+    "correcta": 4,
+                "multiple": "multiple9",
+                "id":9
   },
     {
     "texto": "1) El Router fronterizo (intranet–extranet) que tiene dos o más conexiones balanceadas, dentro de un host o nodo multibase trabaja soportando bajo el protocolo:",
@@ -1107,7 +1287,9 @@
       "e) SNMP",
       "f) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 1
+    "correcta": 1,
+                "multiple": "multiple10",
+                "id":0
   },
   {
     "texto": "2) Dentro del Esquema del Protocolo TCP/IP V4, de acuerdo con la cantidad máxima de redes y cantidad máxima de hosts por red se define la clase de la red que estamos evaluando para ver si es clase A, B o C.",
@@ -1115,7 +1297,9 @@
       "a) Verdadero",
       "b) Falso"
     ],
-    "correcta": 0
+    "correcta": 0,
+                "multiple": "multiple10",
+                "id":1
   },
   {
     "texto": "3) Un Cuadro de Tipo Identificable como unidad de transmisión de paquetes en una LAN está compuesto por una cantidad limitada de Bits, que tienen sus formatos de campos como:",
@@ -1129,7 +1313,9 @@
       "g) Todas las anteriores son correctas",
       "h) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 6
+    "correcta": 6,
+                "multiple": "multiple10",
+                "id":2
   },
   {
     "texto": "4) Algunos cuadros no identificables se caracterizan por no incluir un campo de Tipo de cabecera de cuadro, por lo tanto, establecen previamente:",
@@ -1141,7 +1327,9 @@
       "e) Ambas a y c",
       "f) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 0
+    "correcta": 0,
+                "multiple": "multiple10",
+                "id":3
   },
   {
     "texto": "5) Dentro del Esquema del Protocolo TCP/IP V4, cuando nos referimos a un host multibase o sistema autónomo estamos hablando de:",
@@ -1155,7 +1343,9 @@
       "g) Todas las anteriores son correctas",
       "h) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 1
+    "correcta": 1,
+                "multiple": "multiple10",
+                "id":4
   },
   {
     "texto": "6) Dentro del Esquema del Protocolo TCP/IP V4, la dirección IP corresponde a un número de 32 Bits asignado a un Host y usado para todas las comunicaciones con él; a su vez aplica un esquema de jerarquía de direcciones utilizando el prefijo, para identificar a la red física que está conectada y el sufijo para identificar a cada host de la red.",
@@ -1163,7 +1353,9 @@
       "a) Verdadero",
       "b) Falso"
     ],
-    "correcta": 0
+    "correcta": 0,
+                "multiple": "multiple10",
+                "id":5
   },
   {
     "texto": "7) Una Red compartida topología estrella con un conmutador de capa 2 del modelo OSI se vale de direcciones para filtrar los cuadros de entrada a las distintas estaciones; para ello los formatos de direcciones corresponden a:",
@@ -1174,7 +1366,9 @@
       "d) Todas las Anteriores es Correcta",
       "e) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 0
+    "correcta": 0,
+                "multiple": "multiple10",
+                "id":6
   },
   {
     "texto": "8) La Interfaz de programación de aplicaciones que interactúa entre el Sistema Operativo y los Protocolos, que se diseñan para trabajar con aplicaciones concurrentes utilizando un grupo de protocolos y el servicio deseado se lo denomina:",
@@ -1186,7 +1380,9 @@
       "e) Servicio",
       "f) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 2
+    "correcta": 2,
+                "multiple": "multiple10",
+                "id":7
   },
   {
     "texto": "9) Dentro de una red de dominio con recursos compartidos, la acción de copiar los cuadros en las interfaces de red realizada por un concentrador se la denomina:",
@@ -1200,7 +1396,9 @@
       "g) Aviso",
       "h) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 2
+    "correcta": 2,
+                "multiple": "multiple10",
+                "id":8
   },
   {
     "texto": "10) El protocolo simple de Gestión de Red utilizado por los monitores de red para relevar y controlar el desempeño de terminales en la misma se lo denomina:",
@@ -1212,14 +1410,18 @@
       "e) SNMP",
       "f) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 4
+    "correcta": 4,
+                "multiple": "multiple10",
+                "id":9
   },  {
     "texto": "1) El Esquema de Datagrama IP nace con la necesidad de trabajar con redes homogéneas, y permite el paso de un cuadro de una red a otra respetando el paquete original de manera tal de encapsularlo y que el mismo sea modificado mientras se realice la transmisión.",
     "opciones": [
       "a) Verdadero",
       "b) Falso"
     ],
-    "correcta": 1
+    "correcta": 1,
+                "multiple": "multiple11",
+                "id":0
   },
   {
     "texto": "2) Dentro del Esquema del Protocolo TCP/IP V4, la dirección IP corresponde a un número de 34 Bits asignado a un Host y usado para todas las comunicaciones con él; a su vez aplica un esquema de jerarquía de direcciones utilizando el prefijo, para identificar a la red física que está conectada y el sufijo para identificar a cada host de la red.",
@@ -1227,7 +1429,9 @@
       "a) Verdadero",
       "b) Falso"
     ],
-    "correcta": 1
+    "correcta": 1,
+                "multiple": "multiple11",
+                "id":1
   },
   {
     "texto": "3) El Proxy WAP traduce las peticiones WAP a peticiones Web, de forma que el cliente WAP (el terminal inalámbrico) pueda realizar peticiones de información al servidor Web. Adicionalmente este Proxy codifica las respuestas del servidor Web en un formato binario compacto, que es interpretable por el cliente.",
@@ -1235,7 +1439,9 @@
       "a) Verdadero",
       "b) Falso"
     ],
-    "correcta": 0
+    "correcta": 0,
+                "multiple": "multiple11",
+                "id":2
   },
   {
     "texto": "4) Dentro de la estructura del Protocolo H323 para telefonía IP, podemos decir que el Gatekeeper tiene la función de:",
@@ -1247,7 +1453,9 @@
       "e) Controlar el Clúster redundante",
       "f) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 1
+    "correcta": 1,
+                "multiple": "multiple11",
+                "id":3
   },
   {
     "texto": "5) El Protocolo de Internet versión 4 IPv4 con los cambios tecnológicos permitió:",
@@ -1260,7 +1468,9 @@
       "f) Ambas a y d",
       "g) Ninguna de las Anteriores es Correcta"
     ],
-    "correcta": 4
+    "correcta": 4,
+                "multiple": "multiple11",
+                "id":4
   },
   {
     "texto": "6) Dentro del Protocolo de Internet Versión 6 IPv6, la dirección posee 3 campos de elementos hexadecimales que corresponden a:",
@@ -1274,7 +1484,9 @@
       "g) Ambas a, c y e",
       "h) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 6
+    "correcta": 6,
+                "multiple": "multiple11",
+                "id":5
   },
   {
     "texto": "7) El Protocolo de Internet Versión 6 Ipv6 posee un espacio de direcciones de 128 Bits. Los cambios en las cabeceras del Datagrama (Flujo Continuo de datos) permiten mejorar la calidad de transmisión de audio y video.",
@@ -1282,7 +1494,9 @@
       "a) Verdadero",
       "b) Falso"
     ],
-    "correcta": 0
+    "correcta": 0,
+                "multiple": "multiple11",
+                "id":6
   },
   {
     "texto": "8) El protocolo estándar utilizado para mostrar información en pequeñas pantallas a través de conexiones celulares, basado en Wireless Markup Language (WML) (similar al HTML), preparado para que el cliente y no requiera en sus dispositivos teclado o Mouse se lo denomina:",
@@ -1294,7 +1508,9 @@
       "e) Spoofing",
       "f) Ninguna de las Anteriores es correcta"
     ],
-    "correcta": 3
+    "correcta": 3,
+                "multiple": "multiple11",
+                "id":7
   },
   {
     "texto": "9) Los Protocolos más utilizados en Telefonía sobre IP corresponden a:",
@@ -1307,7 +1523,9 @@
       "f) Ambas B y D",
       "g) Ninguna de las Anteriores es Correcta"
     ],
-    "correcta": 5
+    "correcta": 5,
+                "multiple": "multiple11",
+                "id":8
   },
   {
     "texto": "10) Dentro del Esquema del Protocolo TCP/IP V4... se define la clase de la red que estamos evaluando para ver si es clase A, B o C.",
@@ -1315,7 +1533,9 @@
       "a) Verdadero",
       "b) Falso"
     ],
-    "correcta": 0
+    "correcta": 1,
+                "multiple": "multiple11",
+                "id":9
   }, {
     "texto": "1) Dada la dirección 157.89.0.64 y la máscara 255.255.0.0 ¿qué parte representa la porción de host?",
     "opciones": [
@@ -1326,7 +1546,9 @@
       "e) 157.89.0.0",
       "f) Ninguna de las anteriores es correcta."
     ],
-    "correcta": 5
+    "correcta": 5,
+                "multiple": "multiple12",
+                "id":0
   },
   {
     "texto": "2) Dada una dirección clase B y máscara 255.255.255.240 ¿cuál es el máximo número de hosts y subredes útiles?",
@@ -1338,7 +1560,9 @@
       "e) Redes = 4098; Hosts = 14",
       "f) Ninguna de las anteriores es correcta."
     ],
-    "correcta": 3
+    "correcta": 3,
+                "multiple": "multiple12",
+                "id":1
   },
   {
     "texto": "3) Dentro de la siguiente dirección IPv6, el sufijo marcado o los últimos 64 bits corresponden a:",
@@ -1350,7 +1574,9 @@
       "e) Ambas c y d",
       "f) Ninguna de las anteriores es correcta."
     ],
-    "correcta": 4
+    "correcta": 4,
+                "multiple": "multiple12",
+                "id":2
   },
   {
     "texto": "4) ¿Qué clase de dirección tiene la menor cantidad de hosts para direccionar?",
@@ -1362,7 +1588,9 @@
       "e) Clase E",
       "f) Ninguna de las anteriores es correcta."
     ],
-    "correcta": 2
+    "correcta": 2,
+                "multiple": "multiple12",
+                "id":3
   },
   {
     "texto": "5) ¿Cuál es el rango de direcciones válidas para la dirección IP 222.37.2.50/24?",
@@ -1374,7 +1602,9 @@
       "e) 222.37.2.0 — 222.37.2.255",
       "f) Ninguna de las anteriores es correcta."
     ],
-    "correcta": 2
+    "correcta": 2,
+                "multiple": "multiple12",
+                "id":4
   },
   {
     "texto": "6) El siguiente rango de direcciones IPv4 172.16.0.0 — 172.31.0.0 representa a:",
@@ -1388,7 +1618,9 @@
       "g) Direcciones Clase D",
       "h) Ninguna de las anteriores es correcta."
     ],
-    "correcta": 3
+    "correcta": 3,
+                "multiple": "multiple12",
+                "id":5
   },
   {
     "texto": "7) ¿Cuáles son los host válidos para 199.37.2.33/29?",
@@ -1400,7 +1632,9 @@
       "e) 199.37.0.0 — 199.37.255.254",
       "f) Ninguna de las anteriores es correcta."
     ],
-    "correcta": 3
+    "correcta": 3,
+                "multiple": "multiple12",
+                "id":6
   },
   {
     "texto": "8) ¿Sobre qué Subnet está el host 200.1.1.99/27?",
@@ -1412,7 +1646,9 @@
       "e) 200.1.1.128",
       "f) Ninguna de las anteriores es correcta."
     ],
-    "correcta": 3
+    "correcta": 3,
+                "multiple": "multiple12",
+                "id":7
   },
   {
     "texto": "9) Identifique la dirección de broadcast, dada la dirección IP 201.100.178.36 y la máscara 255.255.255.224:",
@@ -1425,7 +1661,9 @@
       "f) 255.255.255.255",
       "g) Ninguna de las anteriores es correcta."
     ],
-    "correcta": 1
+    "correcta": 1,
+                "multiple": "multiple12",
+                "id":8
   },
   {
     "texto": "10) ¿Qué clase de dirección IP me brinda la mayor cantidad de redes?",
@@ -1437,7 +1675,9 @@
       "e) Clase E",
       "f) Ninguna de las anteriores es correcta."
     ],
-    "correcta": 2
+    "correcta": 2,
+                "multiple": "multiple12",
+                "id":9
   }
 
         ]
