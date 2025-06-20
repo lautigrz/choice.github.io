@@ -130,7 +130,7 @@ function mostrarPreguntasLista(preguntas) {
                 <label class="form-check-label" for="p${i}o${j}">${opcion}</label>
               </div>
             `;
-    });
+    }); 
 
     questionsDiv.appendChild(div);
   });
