@@ -1,4 +1,4 @@
-fetch('../preguntas.json')
+fetch('./preguntas.json')
   .then(response => response.json())
   .then(data => {
     const form = document.getElementById("quizForm");
