@@ -2238,6 +2238,163 @@
       "id": 9,
       "multiple": 16
     }
+  ],
+   "multiple17": [
+    {
+      "texto": "1) Dentro del Esquema del Protocolo TCP/ IP, y para identificar cada WWW, existe un sistema de nombres jerárquico que permite desarrollar el nombre a partir de una secuencia de segmentos alfanuméricos separados por puntos, teniendo la parte izquierda del mismo correspondiente al nombre de la computadora y los otros segmentos al grupo al cual pertenecen. Por lo tanto, nos estamos refiriendo al: (IMG)",
+      "opciones": [
+        "a) Sistema de Nombres de Dominio (DNS).",
+        "b) Proxy Reverse.",
+        "c) Monitor de Web.",
+        "d) Ambas a y c.",
+        "e) Todas las Anteriores son Correctas.",
+        "f) Ninguna de las Anteriores es correcta. "
+      ],
+      "correcta": 0,
+      "id": 0,
+      "multiple": 17
+    },
+    {
+      "texto": "2) El Reverse Proxy Server es un componente que aplica técnicas para:",
+      "opciones": [
+        "a) Resolver nombres de dominio",
+        "b) Bloquear el acceso a puertos. ",
+        "c) Optimizar el correo electrónico.",
+        "d) Asignar dinámicamente direcciones IP. ",
+        "e) Realizar Balanceo de carga.",
+        "f) Realizar el NAT.",
+        "g) Todas las Anteriores son correctas.",
+        "h) Ninguna de las Anteriores es correcta."
+      ],
+      "correcta": 4,
+      "id": 1,
+      "multiple": 17
+    },
+    {
+      "texto": "3) Dentro de los Servicios ofrecidos dentro de un dominio o nodo de Internet, el Sistema de Nombres de Dominio para realizar las comunicaciones a través de un firewall utiliza el Puerto:",
+      "opciones": [
+        "a) Puerto 80.",
+        "b) Puertos 20 y 21.",
+        "c) Puerto 25. ",
+        "d) Puerto 53.",
+        "e) Puerto 8080.",
+        "f) Ambas a y e.",
+        "g) Todas las Anteriores son correctas. ",
+        "h) Ninguna de las Anteriores es correcta."
+      ],
+      "correcta": 3,
+      "id": 2,
+      "multiple": 17
+    },
+    {
+      "texto": "4) El Protocolo de red que permite el intercambio de datos utilizando un canal seguro entre dos dispositivos conectados en red y permite emulación de Terminal en modo Túnel se lo denomina: (IMG)",
+      "opciones": [
+        "a) DNS.",
+        "b) SSH.",
+        "c) ICMP.",
+        "d) TELNET.",
+        "e) SONET",
+        "f) Ambas a y d.",
+        "g) Ninguna de las Anteriores es correcta."
+      ],
+      "correcta": 1,
+      "id": 3,
+      "multiple": 17
+    },
+    {
+      "texto": "5) Dentro de los Servicios ofrecidos dentro de un dominio o nodo de Internet, el Protocolo Simple de Transferencia de Correo, para realizar las comunicaciones a través de un firewall utiliza el Puerto: (IMG)",
+      "opciones": [
+        "a) HTTP Puerto 80.",
+        "b) FTP Puertos 20 y 21..",
+        "c) SMTP Puerto 25.",
+        "d) DNS Puerto 53",
+        "e) HTTP Puerto 8080",
+        "f) Ambas a y e.",
+        "g) Todas las Anteriores son correctas. ",
+        "h) Ninguna de las Anteriores es correcta."
+      ],
+      "correcta": 2,
+      "id": 4,
+      "multiple": 17
+    },
+    {
+      "texto": "6) Dentro de los Servicios ofrecidos dentro de un dominio o nodo de Internet, cuando nos referimos al Servicio FTPS estamos hablando de:",
+      "opciones": [
+        "a) El acceso en modo terminal remoto a un equipo computador.",
+        "b) Protocolo de Transferencia de archivos.",
+        "c) Protocolo mundial para intercambiar mensajes de texto en un canal.",
+        "d) Colección de ficheros o páginas WEB que incluyen todo tipo de información e hipermedia.",
+        "e) Protocolo Simple de transferencia de Correo.",
+        "f) Protocolo Simple de Transferencia de Hipertexto.",
+        "g) Todas las Anteriores son correctas",
+        "h) Ninguna de las Anteriores es correcta."
+      ],
+      "correcta": 7,
+      "id": 5,
+      "multiple": 17
+    },
+    {
+      "texto": "7)  El Servicio/protocolo de red de tipo Protocolo Cliente –Servidor en el que generalmente un servidor posee una lista de direcciones IP dinámicas y las va asignando a los clientes conforme éstas van estando libres, sabiendo en todo momento quién ha estado en posesión de esa IP, cuánto tiempo la ha tenido y a quién se la ha asignado después corresponde a: (IMG)",
+      "opciones": [
+        "a) HTTP.",
+        "b) FTP",
+        "c) SMTP.",
+        "d) DNS.",
+        "e) SNMP",
+        "f) DHCP."
+      ],
+      "correcta": 5,
+      "id": 6,
+      "multiple": 17
+    },
+    {
+      "texto": "8)  Dentro de los Servicios ofrecidos dentro de un dominio o nodo de Internet, cuando nos referimos al Servicio HTTPS estamos hablando de:",
+      "opciones": [
+        "a) El acceso en modo terminal remoto a un equipo computador",
+        "b) Protocolo de Transferencia de archivos",
+        "c) Protocolo mundial para intercambiar mensajes de texto en un canal.",
+        "d) Colección de ficheros o páginas WEB que incluyen todo tipo de información e hipermedia",
+        "e) Protocolo Simple de transferencia de Correo.",
+        "f) Protocolo Simple de Transferencia de Hipertexto Seguro.",
+        "g) Todas las Anteriores son correctas.",
+        "h) Ninguna de las Anteriores es correcta."
+      ],
+      "correcta": 5,
+      "id": 7,
+      "multiple": 17
+    },
+    {
+      "texto": "9) Dentro de los Servicios ofrecidos dentro de un dominio o nodo de Internet, el servicio de Webmail, para realizar las comunicaciones a través de un firewall utiliza el Puerto:",
+      "opciones": [
+        "a) HTTP Puerto 80.",
+        "b) FTP Puertos 20 y 21.",
+        "c) SMTP Puerto 25.",
+        "d) DNS Puerto 53.",
+        "e) HTTP Puerto 8080.",
+        "f) Ambas a y e",
+        "g) Todas las Anteriores son correctas. ",
+        "h) Ninguna de las Anteriores es correcta."
+      ],
+      "correcta": 5,
+      "id": 8,
+      "multiple": 17
+    },
+    {
+      "texto": "10)El Servicio/ Protocolo de Internet, que implementa un Servicio de directorio (metadirectorio) Jerárquico y Distribuido, utilizado para administrar un repositorio centralizado de usuarios, aplicaciones y recursos y define permisos, configurados por el administrador para permitir el acceso a ciertos usuarios a la base de datos, y mantener información en privado corresponde a: (IMG)",
+      "opciones": [
+        "a) LDAP.",
+        "b) FTP",
+        "c) SMTP.",
+        "d) DNS.",
+        "e) HTTP.",
+        "f) DHCP.",
+        "g) Todas las Anteriores son correctas",
+        "h) Ninguna de las Anteriores es Correcta."
+      ],
+      "correcta": 0,
+      "id": 9,
+      "multiple": 17
+    }
   ]
 
 }
