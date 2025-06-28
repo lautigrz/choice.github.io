@@ -976,8 +976,8 @@
       "id": 8,
       "multiple": 7
     }
-  ],
-  "multiple8": [
+ ,
+ 
     {
       "texto": "10) En una Red con Topología en Estrella, el Componente de Software que realiza la administración y autenticación de accesos a los recursos de la red a través del Software de base que posee los perfiles del usuario para administrar en la Red se lo denomina:",
       "opciones": [
@@ -993,7 +993,8 @@
       "correcta": 6,
       "id": 0,
       "multiple": 7
-    },
+    }  ],
+     "multiple8": [
     {
       "texto": "1) El objetivo de la instalación de un Encaminador o Router es:",
       "opciones": [
@@ -2395,6 +2396,169 @@
       "id": 9,
       "multiple": 17
     }
-  ]
+  ],
+  "multiple18": [
+  {
+    "texto": "1) El servicio RR-DNS (Round Robin DNS): es una herramienta que se utiliza para aplicar técnicas de: (IMG)",
+    "opciones": [
+      "a) Cacheo de Páginas Webs.",
+      "b) Monitoreo de Reglas de firewall.",
+      "c) Monitoreo de Ancho de Banda.",
+      "d) Monitoreo de Correo Electrónico",
+      "e) Balanceo de Carga.",
+      "f) Monitoreo de Página WEB.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 4,
+    "id": 0,
+    "multiple": 18
+  },
+  {
+    "texto": "2) Dentro de los Servicios ofrecidos dentro de un dominio o nodo de Internet, El Firewall realiza una protección de nuestra red bloqueando las comunicaciones a través de los Puertos. Para configurar un servicio y poder ser ofrecido a través de los mismos debo hacer uso del: (IMG)",
+    "opciones": [
+      "a) Proxy.",
+      "b) Editor de Reglas.",
+      "c) Monitor de Ancho de Banda.",
+      "d) Active Directory.",
+      "e) Radius.",
+      "f) Monitor de Pagina WEB.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 1,
+    "id": 1,
+    "multiple": 18
+  },
+  {
+    "texto": "3) Dentro de los Servicios ofrecidos dentro de un dominio o nodo de Internet, cuando nos referimos al Servicio IRC estamos hablando de: (IMG)",
+    "opciones": [
+      "a) El acceso en modo terminal remoto a un equipo computador.",
+      "b) Protocolo de Transferencia de archivos.",
+      "c) Protocolo mundial para intercambiar mensajes de texto en un canal.",
+      "d) Colección de ficheros o páginas WEB que incluyen todo tipo de información e Hipermedia.",
+      "e) Protocolo Simple de transferencia de Correo.",
+      "f) Protocolo Simple de Transferencia de Hipertexto.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 2,
+    "id": 2,
+    "multiple": 18
+  },
+  {
+    "texto": "4) Dentro de los Servicios ofrecidos dentro de un dominio o nodo de Internet, aquel que limita el tamaño de los archivos atacheados en el servicio de correo electrónico comunicaciones corresponde a: (IMG)",
+    "opciones": [
+      "a) Proxy.",
+      "b) Monitor de Correo Electrónico.",
+      "c) Firewall.",
+      "d) Monitor de Ancho de Banda.",
+      "e) Radius.",
+      "f) Monitor de Pagina WEB.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 1,
+    "id": 3,
+    "multiple": 18
+  },
+  {
+    "texto": "5) Dentro de los Servicios ofrecidos dentro de un dominio o nodo de Internet, cuando nos referimos al Servicio SSH estamos hablando de: (IMG)",
+    "opciones": [
+      "a) El acceso en modo terminal remoto a un equipo computador por canal encriptado.",
+      "b) Protocolo de Transferencia de archivos.",
+      "c) Protocolo mundial para intercambiar mensajes de texto en un canal.",
+      "d) Colección de ficheros o páginas WEB que incluyen todo tipo de información e Hipermedia.",
+      "e) Protocolo Simple de transferencia de Correo.",
+      "f) Protocolo Simple de Transferencia de Hipertexto.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 0,
+    "id": 4,
+    "multiple": 18
+  },
+  {
+    "texto": "6) El servicio de internet que se encarga de Mantener un Cache Configurable (Activo/Pasivo) de los datos (páginas Webs) más solicitados o recientemente recuperados para mejorar la performance de respuesta ante solicitudes se lo denomina: (IMG)",
+    "opciones": [
+      "a) Proxy.",
+      "b) Proxy Reverse.",
+      "c) Monitor de Ancho de Banda.",
+      "d) Monitor de Correo Electrónico.",
+      "e) Radius.",
+      "f) Monitor de Página WEB.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 0,
+    "id": 5,
+    "multiple": 18
+  },
+  {
+    "texto": "7) Dentro de los Servicios ofrecidos dentro de un dominio o nodo de Internet, cuando nos referimos al Servicio SMTP estamos hablando de: (IMG)",
+    "opciones": [
+      "a) El acceso en modo terminal remoto a un equipo computador.",
+      "b) Protocolo de Transferencia de archivos.",
+      "c) Protocolo mundial para intercambiar mensajes de texto en un canal.",
+      "d) Colección de ficheros o páginas WEB que incluyen todo tipo de información e hipermedia.",
+      "e) Protocolo Simple de transferencia de Correo.",
+      "f) Protocolo Simple de Transferencia de Hipertexto.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 4,
+    "id": 6,
+    "multiple": 18
+  },
+  {
+    "texto": "8) Decimos que el modelo Internet está basado en una red de redes con arquitectura o paradigma cliente-servidor, que aparte de los componentes físicos, hardware, protocolos, y Sistemas operativos la interacción cliente servidor necesita de: (IMG)",
+    "opciones": [
+      "a) La aplicación del servidor.",
+      "b) La aplicación del cliente.",
+      "c) Un algoritmo de compresión de datos.",
+      "d) Un algoritmo de encriptación de datos.",
+      "e) Ambas a y c.",
+      "f) Ambas a y b.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 5,
+    "id": 7,
+    "multiple": 18
+  },
+  {
+    "texto": "9) Aquel servicio que se encarga de validar y dar acceso remoto a usuarios a la Red Interna se lo denomina: (IMG)",
+    "opciones": [
+      "a) Firewall.",
+      "b) Proxy.",
+      "c) Proxy Reverse.",
+      "d) Access Server.",
+      "e) Active Directory.",
+      "f) Router.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 3,
+    "id": 8,
+    "multiple": 18
+  },
+  {
+    "texto": "10) El servicio que limita tiempos de acceso al uso de la red internet en lo que respecta a páginas Webs se lo denomina: (IMG)",
+    "opciones": [
+      "a) Proxy.",
+      "b) Editor de Reglas.",
+      "c) Monitor de Ancho de Banda.",
+      "d) Monitor de Correo Electrónico.",
+      "e) Radius.",
+      "f) Monitor de Página WEB.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 5,
+    "id": 9,
+    "multiple": 18
+  }
+]
+
 
 }
