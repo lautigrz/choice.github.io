@@ -1,0 +1,1391 @@
+{
+    "tema1":[
+  {
+    "texto": "1) De acuerdo al Modelo OSI, los protocolos JPEG, ASCII, EBCDIC, TIFF, GIF, PICT, MPEG y MIDI trabajan en la capa:",
+    "opciones": [
+      "a) Física",
+      "b) Enlace",
+      "c) Red",
+      "d) Transporte",
+      "e) Aplicación",
+      "f) Presentación",
+      "g) Todas las Anteriores son correctas",
+      "h) Ninguna de las Anteriores es correcta"
+    ],
+    "correcta": 5,
+      "multiple": "tema1",
+                "id":0
+  },
+  {
+    "texto": "2) Dentro del Protocolo TCP/IPv4 ¿Cuál de las siguientes direcciones IP no pueden ser utilizadas para asignar a un dispositivo de red (host)?",
+    "opciones": [
+      "a) 0.0.0.0",
+      "b) 172.32.0.0",
+      "c) 172.32.1.8",
+      "d) 127.0.0.0",
+      "e) Ambas a, b y d",
+      "f) Ambas a, c y d",
+      "g) Ninguna de las Anteriores es Correcta"
+    ],
+    "correcta": 4,
+      "multiple": "tema1",
+                "id":1
+  },
+  {
+    "texto": "3) Dentro de los medios de transmisión el uso de la fibra óptica nos da las siguientes ventajas:",
+    "opciones": [
+      "a) El uso de la luz evita la interferencia eléctrica.",
+      "b) Su instalación requiere equipo especial para el pulido de los extremos y permitir el paso de la Luz.",
+      "c) Las fibras pueden transportar pulsos a mayor distancia que los cables.",
+      "d) La Reparación de una fibra rota requiere de equipo especial para empalmar las fibras de modo que pueda pasar luz por la unión.",
+      "e) La luz puede codificar más información que las señales eléctricas, la fibra puede transportar más información que los alambres.",
+      "f) La fibra transporta en un único medio mientras que el multipar necesita por lo menos 2 pares.",
+      "g) Ambas A, C, E y F",
+      "h) Ambas A, B, D y F",
+      "i) Todas las anteriores son correctas",
+      "j) Ninguna de las anteriores es Correcta"
+    ],
+    "correcta": 6,
+      "multiple": "tema1",
+                "id":2
+  },
+  {
+    "texto": "4) La Distribución Física de una Red de Telecomunicaciones, o forma en que los nodos de una red están conectados con todos sus componentes se lo denomina:",
+    "opciones": [
+      "a) Cableado Estructurado",
+      "b) Topología Física",
+      "c) Plano",
+      "d) Ubicación Teleinformática",
+      "e) Tendido",
+      "f) Área de Trabajo",
+      "g) Ambas a y c",
+      "h) Ninguna de las Anteriores es correcta"
+    ],
+    "correcta": 1,
+      "multiple": "tema1",
+                "id":3
+  },
+  {
+    "texto": "5) Dentro del modelo de capas OSI, la definición del Hardware de Red Básico y las características mecánicas, eléctricas y funcionales de las Líneas entre terminales corresponden a la capa:",
+    "opciones": [
+      "a) Enlace",
+      "b) Red",
+      "c) Transporte",
+      "d) Física",
+      "e) Sesión",
+      "f) Ninguna de las Anteriores es correcta"
+    ],
+    "correcta": 3,
+      "multiple": "tema1",
+                "id":4
+  },
+  {
+    "texto": "6) La dirección de IP 170.210.32.168 corresponde a una dirección de tipo:",
+    "opciones": [
+      "a) Clase B Pública",
+      "b) Clase A Pública",
+      "c) Clase C Pública",
+      "d) Clase B Privada",
+      "e) Ninguna de las Anteriores es correcta"
+    ],
+    "correcta":0
+      ,"multiple": "tema1",
+                "id":5
+  },
+  {
+    "texto": "7) El Modo de transmisión que establece un sincronismo de bit de carácter al comienzo de la transmisión en cada sentido y luego se mantiene automáticamente con los datos transmitidos se lo denomina:",
+    "opciones": [
+      "a) Transmisión Sincrónica",
+      "b) Transmisión Asincrónica",
+      "c) Transmisión Simplex",
+      "d) Transmisión Semidúplex",
+      "e) Transmisión Duplex",
+      "f) Ninguna de las Anteriores es correcta"
+    ],
+    "correcta": 0,
+      "multiple": "tema1",
+                "id":6
+  },
+  {
+    "texto": "8) Cuando Hablamos de Token Ring, Tecnología para uso exclusivo en Topología Anillo, la operación de la misma en lo que respecta al acceso al canal se hace a través del Pase de Ficha y el Transmisor tiene:",
+    "opciones": [
+      "a) El Control Total y Momentáneo de la Red",
+      "b) El Control de los Dispositivos Intermedios",
+      "c) La estadística del aumento de colisiones en toda la Red",
+      "d) Todas las anteriores son correctas",
+      "e) La afirmación de la texto es incorrecta",
+      "f) Ninguna de las Anteriores es correcta"
+    ],
+    "correcta": 0,
+      "multiple": "tema1",
+                "id":7
+  },
+  {
+    "texto": "9) La unidad de medida utilizada para medir la atenuación de una señal en un medio de transmisión físico corresponde a:",
+    "opciones": [
+      "a) Gigabits por Segundo",
+      "b) Megabits por Segundo",
+      "c) Nanosegundos",
+      "d) decibeles",
+      "e) Terabytes",
+      "f) Ninguna de las Anteriores es correcta"
+    ],
+    "correcta": 3,
+      "multiple": "tema1",
+                "id":8
+  },
+  {
+    "texto": "10) Un Bridge está compuesto por uno o dos elementos activos o dispositivos que se utilizan para separar lógicamente segmentos de una Red. De acuerdo al Modelo OSI el Bridge trabaja en la capa:",
+    "opciones": [
+      "a) Física",
+      "b) Enlace",
+      "c) Red",
+      "d) Transporte",
+      "e) Aplicación",
+      "f) Presentación",
+      "g) Todas las Anteriores son correctas",
+      "h) Ninguna de las Anteriores es correcta"
+    ],
+    "correcta": 1,
+      "multiple": "tema1",
+                "id":9
+  }, {
+    "texto": "11) La operación realizada modificando la onda portadora, en base a una onda moduladora que contiene Información a los efectos de poder ser transmitida, debiéndose hacerse en forma tal, que la Información no se altere en ninguna parte del Proceso de Transmisión se la denomina:",
+    "opciones": [
+      "a) Codificación",
+      "b) Regeneración",
+      "c) Alimentación",
+      "d) Modulación",
+      "e) Interferencia",
+      "f) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema1",
+    "id": 10
+  },
+  {
+    "texto": "12) El Circuito que acepta una portadora modulada y recrea la secuencia de bits usada para modular la portadora se lo denomina:",
+    "opciones": [
+      "a) Modulador",
+      "b) Demodulador",
+      "c) Codificador ASCII",
+      "d) Amplificador",
+      "e) Ambas a y b",
+      "f) Ambas a y e",
+      "g) Ambas b y c",
+      "h) Ninguna de las Anteriores es correcta"
+    ],
+    "correcta": 1,
+    "multiple": "tema1",
+    "id": 11
+  },
+  {
+    "texto": "13) Dentro del modelo de capas OSI, el formato del paquete a transmitir en lo que respecta a los campos que posee se los define en la capa:",
+    "opciones": [
+      "a) Física",
+      "b) Red",
+      "c) Transporte",
+      "d) Aplicación",
+      "e) Sesión",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema1",
+    "id": 12
+  },
+  {
+    "texto": "14) De acuerdo con el Modelo OSI, los protocolos IP, NAT, APPLETALK e ICMP trabajan en la capa:",
+    "opciones": [
+      "a) Física",
+      "b) Enlace",
+      "c) Red",
+      "d) Transporte",
+      "f) Sesión",
+      "g) Presentación",
+      "h) Todas las anteriores son correctas",
+      "i) Ninguna de las Anteriores es correcta"
+    ],
+    "correcta": 2,
+    "multiple": "tema1",
+    "id": 13
+  },
+  {
+    "texto": "15) El tipo de modulación basada en 2 señales portadoras desfasadas a 90º y moduladas en amplitud se lo denomina:",
+    "opciones": [
+      "a) Modulación de frecuencia",
+      "b) Modulación de fase",
+      "c) Modulación de multifase",
+      "d) Modulación MQAM",
+      "e) Modulación 2B1Q",
+      "f) Todas las anteriores son correctas",
+      "g) Ambas a y b",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema1",
+    "id": 14
+  },
+  {
+    "texto": "16) La Especificación implementada en software, hardware o una combinación de ambos, capaz de transformar un archivo con un flujo de datos (stream) o una señal; que puede codificar el flujo o la señal (a menudo para la transmisión, el almacenaje o el cifrado) y recuperarlo o descifrarlo del mismo modo para la reproducción o la manipulación en un formato más apropiado se la denomina:",
+    "opciones": [
+      "a) Ruido",
+      "b) Diafonía",
+      "c) Codec",
+      "d) FDMA",
+      "e) TDMA",
+      "f) Celda",
+      "g) Todas las Anteriores son correctas",
+      "h) Ninguna de las Anteriores es correcta"
+    ],
+    "correcta": 2,
+    "multiple": "tema1",
+    "id": 15
+  },
+  {
+    "texto": "17) Dentro de la Estructura Planificada para el Cableado Estructurado, el lugar donde se pueden colocar ductos que se encuentra entre el Techo Real y el Techo basado en placas se lo denomina:",
+    "opciones": [
+      "a) Closet de Comunicaciones",
+      "b) Área de Trabajo",
+      "c) Acometida",
+      "d) Pleno",
+      "e) backbone",
+      "f) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema1",
+    "id": 16
+  },
+  {
+    "texto": "18) Dentro del Protocolo TCP/IPv4. ¿Cuál de las sig. Máscaras no son máscaras válidas?",
+    "opciones": [
+      "a) 255.255.255.192",
+      "b) 255.255.255.171",
+      "c) 255.255.255.121",
+      "d) 255.255.255.249",
+      "e) Ambas a, b y c",
+      "f) Ambas b, c y d",
+      "g) Ninguna de las Anteriores es Correcta"
+    ],
+    "correcta": 5,
+    "multiple": "tema1",
+    "id": 17
+  },
+  {
+    "texto": "19) Dentro de los medios de transmisión y refiriéndonos al cable multipar, el mismo tiene un recubrimiento plástico y un trenzado que posibilita:",
+    "opciones": [
+      "a) Limitar la energía electromagnética emitida por el alambre, el trenzado evita que las corrientes eléctricas irradien energía que podrían inferir en otros alambres",
+      "b) El trenzado no ayuda a evitar la interferencia",
+      "c) El trenzado ayuda a evitar la interferencia",
+      "d) El trenzado se realiza para identificar el tipo de cable",
+      "e) Ambas a y b",
+      "f) Ambas a y c",
+      "g) Ninguna de las Anteriores es Correcta"
+    ],
+    "correcta": 5,
+    "multiple": "tema1",
+    "id": 18
+  },{
+    "texto": "20) En todo cableado tipo ethernet compuesto por cableado UTP Cat 6 / Par trenzado, topología estrella las uniones o conectores son del Tipo:",
+    "opciones": [
+      "a) Conector BNC",
+      "b) Conector RJ-45",
+      "c) Transceiver",
+      "d) Terminador",
+      "e) Vampiro",
+      "f) Repetidor",
+      "g) Land Driver",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema1",
+    "id": 19
+  },
+  {
+    "texto": "21) El multiplexor permite compartir un mismo medio de transmisión a través de las técnicas de:",
+    "opciones": [
+      "a) Multiplexación por División Sincrónica",
+      "b) Multiplexación por División Asincrónica",
+      "c) Multiplexación por División de Frecuencias",
+      "d) Multiplexación por División Semiduplex",
+      "e) Multiplexación por División de Tiempos",
+      "f) Multiplexación por División de Fase",
+      "g) Ambas c y e",
+      "h) Ambas a y b",
+      "i) Ninguna de las anteriores es Correcta"
+    ],
+    "correcta": 6,
+    "multiple": "tema1",
+    "id": 20
+  },
+  {
+    "texto": "22) Esquema corporativo orientado al procesamiento distribuido y a la administración de las comunicaciones que constituyen un conjunto de estándares de interconexión para una familia de productos de hardware de IBM; introducido con anterioridad al Modelo OSI en 1974 se lo denomina:",
+    "opciones": [
+      "a) WAN",
+      "b) IPv6",
+      "c) X-10",
+      "d) SNA",
+      "e) Alohanet",
+      "f) Ninguna de las Anteriores es correcta"
+    ],
+    "correcta": 3,
+    "multiple": "tema1",
+    "id": 21
+  },
+  {
+    "texto": "23) Cuando Adquirimos un MODEM digital para nuestra computadora y decimos que es de 10 Mbps nos estamos refiriendo a una medida de:",
+    "opciones": [
+      "a) Tipo de Modulación",
+      "b) Velocidad de transmisión serie",
+      "c) Tipo de Transmisión",
+      "d) Velocidad de transmisión paralelo",
+      "e) Frecuencia",
+      "f) Ninguna de las anteriores es Correcta"
+    ],
+    "correcta": 1,
+    "multiple": "tema1",
+    "id": 22
+  },
+  {
+    "texto": "24) Aquel tipo de ruido que ocupa gran segmento del ancho de banda y perdura en forma continua de lo denomina:",
+    "opciones": [
+      "a) Impulsivo",
+      "b) Intermodulación",
+      "c) Diafonía",
+      "d) Blanco",
+      "e) Ruido de línea",
+      "f) Todas las anteriores son Correctas",
+      "g) Ambas a y b",
+      "h) Ninguna de las Anteriores es correcta"
+    ],
+    "correcta": 3,
+    "multiple": "tema1",
+    "id": 23
+  },
+  {
+    "texto": "25) Dentro de una Topología de Red en Anillo, el control de conexión de los Nodos se puede realizar por:",
+    "opciones": [
+      "a) Control Centralizado",
+      "b) Control Monitoreado",
+      "c) Control a través de Computadora Stand Alone",
+      "d) Multiplexación",
+      "e) Control Distribuido",
+      "f) Ambas a y e",
+      "g) Ambas b y c",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema1",
+    "id": 24
+  },
+  {
+    "texto": "26) El Modo de transmisión que establece un sincronismo de bit de carácter al comienzo de la transmisión en cada sentido y luego se mantiene automáticamente con los datos transmitidos se lo denomina:",
+    "opciones": [
+      "a) Transmisión Sincrónica",
+      "b) Transmisión Asincrónica",
+      "c) Transmisión Simplex",
+      "d) Transmisión Semidúplex",
+      "e) Transmisión Duplex",
+      "f) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema1",
+    "id": 25
+  },
+  {
+    "texto": "27) Cada Topología combinada con el uso de distintos tipos de enlaces poseen ventajas y desventajas como la incompatibilidad de los medios de transmisión, limitación en el numero de estaciones y limitación en el alcance de las redes, esto dio origen a:",
+    "opciones": [
+      "a) La Aparición de los Sistemas Centralizados",
+      "b) La Aparición de los Sistemas en la Nube",
+      "c) El uso e instalación de Gateways",
+      "d) La Aparición de las Topologías Híbridas.",
+      "e) La aparición de Topologías en Malla.",
+      "f) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema1",
+    "id": 26
+  },
+  {
+    "texto": "28) El uso del Concepto de Multiplexación por división de tiempo permite que varios pares fuentes se comuniquen al mismo tiempo con varios pares destino convirtiendo el medio de transmisión en:",
+    "opciones": [
+      "a) Comunicaciones Sincrónicas Digitales",
+      "b) Un Canal Compartido",
+      "c) Un Espectro amplio",
+      "d) Una forma de Codificación.",
+      "e) Comunicaciones Sincrónicas Analógicas",
+      "f) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema1",
+    "id": 27
+  },
+  {
+    "texto": "29) Dentro del Protocolo TCP/IPv4, Dada la red 192.168.74.0/30, especificar ¿Cuál de las sig. Direcciones pertenece al primer segmento de esta red?:",
+    "opciones": [
+      "a) 192.168.74.3",
+      "b) 192.168.174.3",
+      "c) 192.168.74.6",
+      "d) 192.168.74.2",
+      "e) Ambas a y d",
+      "f) Ambas b y c",
+      "g) Ninguna de las Anteriores es Correcta"
+    ],
+    "correcta": 4,
+    "multiple": "tema1",
+    "id": 28
+  },
+  {
+    "texto": "30) Dentro del modelo OSI, la capa que proporciona el mecanismo de direcciones que permite entregar los mensajes entre los nodos correctos y traduce los mensajes de las capas superiores en bits que puedan ser transmisibles por la capa física corresponde a:",
+    "opciones": [
+      "a) Transporte",
+      "b) Aplicación",
+      "c) Física",
+      "d) Red",
+      "e) Presentación",
+      "f) Enlace",
+      "g) Host a Host",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema1",
+    "id": 29
+  }
+  ],
+  "tema2":[
+    {
+    "texto": "Dentro de los elementos característicos que tiene un protocolo, aquella característica que define la Información de control para coordinar y manejar los potenciales errores se la denomina:",
+    "opciones": [
+      "a) Simetría.",
+      "b) Síntesis",
+      "c) Semántica",
+      "d) Temporización.",
+      "e) Asimetría",
+      "f) Sincronismo.",
+      "g) Todas las anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema2",
+    "id": 0
+  },
+  {
+    "texto": "De acuerdo con Modelo OSI, el protocolo SPX trabajan en la capa:",
+    "opciones": [
+      "a) Física.",
+      "b) Enlace.",
+      "c) Red.",
+      "d) Transporte.",
+      "e) Aplicación.",
+      "f) Presentación",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema2",
+    "id": 1
+  },
+  {
+    "texto": "El ruido endógeno inducido por él envió de dos señales moduladas en frecuencia defasadas se lo denomina:",
+    "opciones": [
+      "a) Intermodulación.",
+      "b) Atmosférico.",
+      "c) Diafonía.",
+      "d) Blanco.",
+      "e) Ruido de línea.",
+      "f) Impulsivo.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema2",
+    "id": 2
+  },
+  {
+    "texto": "Cuando nos referimos a ¨Red de comunicaciones para Terminales que conectan a usuarios dentro de un área muy limitada (Piso – Habitación Amplia/Departamento) y su definición es resultante de la aplicación de la tecnología de Triple Play; se está hablando de una red de tipo:",
+    "opciones": [
+      "a) PAN.",
+      "b) MAN.",
+      "c) WAN.",
+      "d) SAN.",
+      "e) HAN.",
+      "f) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema2",
+    "id": 3
+  },
+  {
+    "texto": "Un Access Point bajo Estándar 802.11 AC externo responde a las siguientes características de funcionamiento:",
+    "opciones": [
+      "a) Opera en frecuencias de UHF Y SHF.",
+      "b) Utiliza tecnología 5G.",
+      "c) Aplica BSS Coloring para sobrecargas de accesos.",
+      "d) Utiliza tecnología MU-MIMO.",
+      "e) Ambas a y d.",
+      "f) Ambas a y c.",
+      "g) Ambas b y c.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+   "correcta": 4,
+    "multiple": "tema2",
+    "id": 4
+  },
+  {
+    "texto": "El conjunto de principios y enfoques que permite proporcionar infraestructura informática, servicios, plataformas y aplicaciones (que provienen de la nube) a los usuarios, según las soliciten y a través de una red se lo denomina:",
+    "opciones": [
+      "a) Arquitectura Cliente Servidor.",
+      "b) Arquitectura de Von Newman.",
+      "c) Arquitectura Microcanal.",
+      "d) Arquitectura de Harvard.",
+      "e) Arquitectura Centralizada.",
+      "f) Arquitectura Distribuida.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 7,
+    "multiple": "tema2",
+    "id": 5
+  },
+  {
+    "texto": "Los siguientes ejemplos responden exclusivamente a la definición de arquitectura cliente-servidor:",
+    "opciones": [
+      "a) Servicio de Correo electrónico WEBMAIL.",
+      "b) Servicio de Correo electrónico POP 3.",
+      "c) Software como Servicio (SaaS).",
+      "d) Infraestructura como servicio (IaaS).",
+      "e) Plataforma como servicio (PaaS).",
+      "f) Ambas a y b.",
+      "g) Ambas c y d.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema2",
+    "id": 6
+  },
+  {
+    "texto": "La Fibra óptica Monomodo es un eficiente medio de transmisión utilizado para enlazar en un campus varios edificios a una distancia de miles de metros y se caracteriza por:",
+    "opciones": [
+      "a) Utilizar láseres como fuente de luz.",
+      "b) Utilizar led como fuente de luz.",
+      "c) Produce una única trayectoria para la luz.",
+      "d) Permite varias trayectorias para la luz.",
+      "e) Ambas a y c.",
+      "f) Ambas b y d.",
+      "g) Ambas a y d.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema2",
+    "id": 7
+  },
+  {
+    "texto": "Dentro de las Cables multipares, cuando nos referimos a: PSELFEXT: Power Sum ELFEXT: Suma de diafonía con el resto de los pares lejanos, esta medición se realiza para:",
+    "opciones": [
+      "a) Establecer el WIRE MAP exclusivamente.",
+      "b) Certificar el cable para verificar a qué Categoría pertenece.",
+      "c) Establecer la velocidad de transmisión serie del cable multipar exclusivamente.",
+      "d) Establecer el tipo de conector a utilizar.",
+      "e) Establecer la distancia del corte del mismo si los hubiera.",
+      "f) Establecer Relación Señal Ruido.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema2",
+    "id": 8
+  },
+  {
+    "texto": "La Norma ANSI/EIA/TIA 607 se aplica en:",
+    "opciones": [
+      "a) Certificar el cable para verificar a qué Categoría pertenece.",
+      "b) Establecer cómo se estructuran los ductos en el Pleno.",
+      "c) Establecer la puesta a tierra de edificios comerciales y requerimientos de conexiones para telecomunicaciones.",
+      "d) Establecer el tipo de cableado horizontal a utilizar.",
+      "e) Establecer las normas a aplicar en la Acometida.",
+      "f) Establecer Relación Señal Ruido.",
+      "g) Ninguna de las Anteriores es Correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema2",
+    "id": 9
+  },{
+    "texto": "De acuerdo al gráfico de red LAN y respecto a los componentes de cableado estructurado numerados en el plano de planta seleccione el orden correcto de los componentes.",
+    "opciones": [
+      "Respuesta A.",
+      "Respuesta B.",
+      "Respuesta C.",
+      "Respuesta D.",
+      "Respuesta E.",
+      "f) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema2",
+    "id": 10
+  },
+  {
+    "texto": "El siguiente Acoplador es un elemento pasivo inductivo/capacitivo que inyecta la señal de comunicaciones e Internet a la red que corresponde a:",
+    "opciones": [
+      "a) Red Coaxil.",
+      "b) Red de Fibra óptica Monomodo.",
+      "c) Red PLC.",
+      "d) Red de Fibra óptica Multimodo.",
+      "e) Red de Cableado Multipar Cat 5e",
+      "f) Red WIFI.",
+      "g) Red Mobile.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema2",
+    "id": 11
+  },
+  {
+    "texto": "Las comunicaciones realizadas en los espectros de frecuencias de UHF y SHF utilizadas por la señal de WI FI emplea como medio de propagación:",
+    "opciones": [
+      "a) Onda Ionosférica.",
+      "b) Onda Espacial.",
+      "c) Onda Terrestre.",
+      "d) Onda Directa.",
+      "e) Fibra Optica Monomodo.",
+      "f) Ninguna de las Anteriores es correcta."
+    ],
+     "correcta": 3,
+    "multiple": "tema2",
+    "id": 12
+  },
+  {
+    "texto": "Dentro de una distribución de topología en estrella, en un aula en donde se deseen agregar terminales (falta de bocas RJ-45), con otro switch de capa 2 administrable; la manera más eficiente de agregar y conexionar otro dispositivo similar es:",
+    "opciones": [
+      "a) Port Switch – Tagged.",
+      "b) Stackable Switch.",
+      "c) Cascade Switch.",
+      "d) VLans – Port Swiching.",
+      "e) VPNs.",
+      "f) Ambas a y d.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+     "correcta": 1,
+    "multiple": "tema2",
+    "id": 13
+  },
+  {
+    "texto": "Un Router es un dispositivo que trabaja a nivel de capa 3 del modelo OSI y permite el salto de los paquetes de datos a la red de destino, para ello utiliza tipos de enrutamiento:",
+    "opciones": [
+      "a) Estáticos.",
+      "b) Internos.",
+      "c) Dinámicos.",
+      "d) Externos.",
+      "e) Ambas a y c.",
+      "f) Ambas b y d.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+     "correcta": 4,
+    "multiple": "tema2",
+    "id": 14
+  },
+  {
+    "texto": "El siguiente elemento activo/dispositivo permite conectar un teléfono analógico a una Red de Telefonía de VoiP y corresponde a:",
+    "opciones": [
+      "a) Unidad MCU.",
+      "b) Conversor ATA.",
+      "c) Gatekeeper.",
+      "d) Gateway.",
+      "e) Registrar Server.",
+      "f) Softphone.",
+      "g) Ninguna de las Anteriores es Correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema2",
+    "id": 15
+  },
+  {
+    "texto": "Los puertos son elementos que se mantienen en permanente escucha de las solicitudes de los cliente en los cuales el sistema operativo direcciona todos los servicios disponibles en los computadores. Con la existencia de un Firewall los mismos se pueden encontrar en modo:",
+    "opciones": [
+      "a) Abierto.",
+      "b) Cerrado.",
+      "c) Bloqueado.",
+      "d) Disociado.",
+      "e) Sigiloso.",
+      "f) Ambas a b y d.",
+      "g) Ambas b c y e.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+     "correcta": 6,
+    "multiple": "tema2",
+    "id": 16
+  },
+  {
+    "texto": "La Interfaz de programación de aplicaciones utilizada para transferir, recibir y escribir datos (E/S); que interactúa con los Protocolos en arquitectura cliente/servidor se lo denomina:",
+    "opciones": [
+      "a) API de Sockets.",
+      "b) Shareware.",
+      "c) Puerto",
+      "d) Firmware.",
+      "e) Backhaul.",
+      "f) Protocolo.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+     "correcta": 0,
+    "multiple": "tema2",
+    "id": 17
+  },
+  {
+    "texto": "El elemento activo o dispositivo intermedio de nuestro dominio de red que permite el paso de nuestros datagramas a la red de proveedor de comunicaciones o ISP se lo denomina:",
+    "opciones": [
+      "a) Transceiver.",
+      "b) Concentrador.",
+      "c) Access Point.",
+      "d) Router.",
+      "e) Switch.",
+      "f) Ninguna de las Anteriores es correcta."
+    ],
+     "correcta": 3,
+    "multiple": "tema2",
+    "id": 18
+  },
+  {
+    "texto": "La Distribución Física de una Red de Telecomunicaciones, o forma en que los nodos de una red están conectados con todos sus componentes se lo denomina:",
+    "opciones": [
+      "a) Cableado Estructurado.",
+      "b) Plano.",
+      "c) Ubicación Teleinformática.",
+      "d) Tendido.",
+      "e) Área de Trabajo.",
+      "f) Topología Física.",
+      "g) Ninguna de las Anteriores es correcta."
+    ],
+     "correcta": 5,
+    "multiple": "tema2",
+    "id": 19
+  }
+
+  ],
+   "tema4":[
+{
+    "texto": "El ruido interno inducido por el envió de dos señales moduladas desfasadas a 90º se lo denomina:",
+    "opciones": [
+      "a) Impulsivo.",
+      "b) Atmosférico.",
+      "c) Diafonía.",
+      "d) Blanco.",
+      "e) Ruido de línea.",
+      "f) Intermodulación.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+     "correcta": 5,
+    "multiple": "tema4",
+    "id": 0
+  },
+  {
+    "texto": "Cuando dos o más dispositivos móviles Bluetooth se encuentran en un mismo rango de cobertura y realmente intercambian información, siempre hay una unidad que actúa como maestra y puede haber hasta 7 que actúen como esclavas, este concepto corresponde a:",
+    "opciones": [
+      "a) Redes Clase 1.",
+      "b) Piconets.",
+      "c) Redes Clase 2.",
+      "d) Scatternet.",
+      "e) UWB Bluetooth.",
+      "f) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema4",
+    "id": 1
+  },
+  {
+    "texto": "El segmento del espectro de frecuencias utilizado por las radiocomunicaciones móviles es:",
+    "opciones": [
+      "a) MF.",
+      "b) HF.",
+      "c) VHF.",
+      "d) SHF.",
+      "e) UHF.",
+      "f) Ambas a y b.",
+      "g) Ambas d y e.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 6,
+    "multiple": "tema4",
+    "id": 2
+  },
+  {
+    "texto": "El Cilindro estabilizado por rotación, con antenas en un extremo y células solares para abastecerse de energía, que estando en el espacio permite la comunicación por microondas corresponde al concepto de:",
+    "opciones": [
+      "a) Sigint.",
+      "b) Work Área.",
+      "c) Satélite.",
+      "d) Yagi.",
+      "e) Amplificador.",
+      "f) Repetidor.",
+      "g) Transductor.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+   "correcta": 2,
+    "multiple": "tema4",
+    "id": 3
+  },
+  {
+    "texto": "Las principales bandas comerciales utilizadas en satélites de comunicaciones son:",
+    "opciones": [
+      "a) Banda L",
+      "b) Banda Ku.",
+      "c) Banda Ka.",
+      "d) Banda C.",
+      "e) Banda X.",
+      "f) Ambas a, b y c.",
+      "g) Ambas b, c y d.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 6,
+    "multiple": "tema4",
+    "id": 4
+  },
+  {
+    "texto": "Los tipos de fibra óptica utilizados en cableado estructurado corresponden a:",
+    "opciones": [
+      "a) Monomodo.",
+      "b) Multimodo.",
+      "c) Multipar.",
+      "d) Multienvío.",
+      "e) Ambas a y b.",
+      "f) Ambas a y c.",
+      "g) Ambas b y c.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema4",
+    "id": 5
+  },
+  {
+    "texto": "Cuando nos referimos a ¨Red de comunicaciones para Terminales que conectan a usuarios dentro de un área muy limitada (Piso – Habitación Amplia) y su definición es resultante de la aplicación de comunicaciones inalámbricas y espectro disperso; se está hablando de una red de tipo:",
+    "opciones": [
+      "a) PAN.",
+      "b) MAN.",
+      "c) WAN.",
+      "d) SAN.",
+      "e) HAN.",
+      "f) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema4",
+    "id": 6
+  },
+  {
+    "texto": "Una red LAN que se encuentra administrada bajo un dominio como la Red Interna de la UNLAM, con Protocolo TCP/IP y servicios de internet se la puede denominar:",
+    "opciones": [
+      "a) Extranet.",
+      "b) Red WAN.",
+      "c) Intranet.",
+      "d) Red SAN.",
+      "e) Red PAN.",
+      "f) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema4",
+    "id": 7
+  },
+  {
+    "texto": "El tipo de modulación basada en 2 señales portadoras desfasadas a 90º y moduladas en amplitud se lo denomina:",
+    "opciones": [
+      "a) Modulación 2B1Q.",
+      "b) Modulación de Fase.",
+      "c) Modulación de Frecuencia.",
+      "d) Modulación MQAM.",
+      "e) Ambas a y b.",
+      "f) Ambas c y d.",
+      "g) Ambas a y d.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema4",
+    "id": 8
+  },
+  {
+    "texto": "La Distribución Física de una Red de Telecomunicaciones, o forma en que los nodos de una red están conectados con todos sus componentes se lo denomina:",
+    "opciones": [
+      "a) Topología Lógica.",
+      "b) Subredes.",
+      "c) Distribución Teleinformática.",
+      "d) Topología Física.",
+      "e) Pleno.",
+      "f) Acometida.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema4",
+    "id": 9
+  },{
+    "texto": "Cuando se supera la extensión de 104 metros en la extensión de un cable Multipar UTP CAT 6 para enlazar 2 segmentos de red se produce:",
+    "opciones": [
+      "a) Atenuación de la Señal.",
+      "b) El ruido de Intermodulación.",
+      "c) El corte del canal de comunicaciones.",
+      "d) La necesidad de Instalar un filtro de red.",
+      "e) La necesidad de instalar un Splitter.",
+      "f) La necesidad de instalar un vampiro.",
+      "g) Todas las anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema4",
+    "id": 10
+  },
+  {
+    "texto": "Dentro de la Estructura Planificada para el Cableado Estructurado, el lugar donde se pueden colocar ductos que se encuentra entre el Techo Real y el Techo basado en placas se lo denomina:",
+    "opciones": [
+      "a) Acometida.",
+      "b) Pleno.",
+      "c) Área de Equipos.",
+      "d) Montante.",
+      "e) Closet de Comunicaciones.",
+      "f) Ambas a y e.",
+      "g) Ambas b y c.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema4",
+    "id": 11
+  },
+  {
+    "texto": "El Modo de transmisión que establece un sincronismo de bit de carácter al comienzo de la transmisión en cada sentido y luego se mantiene automáticamente con los datos transmitidos se lo denomina:",
+    "opciones": [
+      "a) Transmisión Sincrónica.",
+      "b) Transmisión Asincrónica.",
+      "c) Transmisión Simplex.",
+      "d) Transmisión Semiduplex.",
+      "e) Transmisión Dúplex.",
+      "f) Ninguna de las anteriores es Correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema4",
+    "id": 12
+  },
+  {
+    "texto": "La unidad de medida utilizada para medir la atenuación de una señal en un medio de transmisión físico corresponde a:",
+    "opciones": [
+      "a) Gigabits por Segundo.",
+      "b) Megabits por Segundo.",
+      "c) Nanosegundos.",
+      "d) Decibeles.",
+      "e) Terabytes.",
+      "f) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema4",
+    "id": 13
+  },
+  {
+    "texto": "Dentro de los medios de transmisión y refiriéndonos al cable multipar, el mismo tiene un recubrimiento plástico y un trenzado que posibilita:",
+    "opciones": [
+      "a) Limitar la energía electromagnética emitida por el alambre, el trenzado evita que las corrientes eléctricas irradien energía que podrían inferir en otros alambres.",
+      "b) El trenzado no ayuda a evitar la interferencia.",
+      "c) El trenzado ayuda a evitar la interferencia.",
+      "d) El trenzado se realiza para identificar el tipo de cable.",
+      "e) Ambas a y b.",
+      "f) Ambas a y c.",
+      "g) Ninguna de las Anteriores es Correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema4",
+    "id": 14
+  },
+  {
+    "texto": "Cada Topología combinada con el uso de distintos tipos de enlaces poseen ventajas y desventajas como la incompatibilidad de los medios de transmisión, limitación en el número de estaciones y limitación en el alcance de las redes, esto dio origen a:",
+    "opciones": [
+      "a) La Aparición de los Sistemas en la Nube.",
+      "b) La Aparición de los Sistemas Centralizados.",
+      "c) El uso exclusivo de Gateways.",
+      "d) La Aparición de las Topologías Híbridas.",
+      "e) La aparición de Topologías en Malla.",
+      "f) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema4",
+    "id": 15
+  },
+  {
+    "texto": "El uso del Concepto de Multiplexación por división de tiempo permite que varios pares de fuentes se comuniquen al mismo tiempo con varios pares destino convirtiendo el medio de transmisión en:",
+    "opciones": [
+      "a) Comunicaciones Sincrónicas Digitales.",
+      "b) Un Canal Compartido.",
+      "c) Un Espectro amplio.",
+      "d) Una forma de Codificación",
+      "e) Comunicaciones Sincrónicas Analógicas.",
+      "f) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema4",
+    "id": 16
+  },
+  {
+    "texto": "Dentro de los medios de transmisión el uso de la fibra óptica nos da las siguientes ventajas:",
+    "opciones": [
+      "a) El uso de la luz evita la interferencia eléctrica.",
+      "b) Su instalación requiere equipo especial para el pulido de los extremos y permitir el paso de la Luz.",
+      "c) Las fibras pueden transportar pulsos a mayor distancia que los cables.",
+      "d) La Reparación de una fibra rota requiere de equipo especial para empalmar las fibras de modo que pueda pasar luz por la unión.",
+      "e) La luz puede codificar más información que las señales eléctricas, la fibra puede transportar más información que los alambres.",
+      "f) La fibra transporta en un único medio mientras que el multipar necesita por lo menos 2 pares.",
+      "g) Ambas a, c, e y f.",
+      "h) Ambas a, b, d y f.",
+      "i) Ninguna de las anteriores es Correcta."
+    ],
+    "correcta": 6,
+    "multiple": "tema4",
+    "id": 17
+  },
+  {
+    "texto": "El elemento activo o dispositivo intermedio de nuestro dominio de red que permite el paso de nuestros datagramas a la red de proveedor de comunicaciones o ISP se lo denomina:",
+    "opciones": [
+      "a) Transceiver.",
+      "b) Router.",
+      "c) Concentrador.",
+      "d) Access Point.",
+      "e) Switch.",
+      "f) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema4",
+    "id": 18
+  },
+  {
+    "texto": "De acuerdo al Modelo OSI, los protocolos JPEG, ASCII, EBCDIC, TIFF, GIF, PICT, MPEG y MIDI trabajan en la capa:",
+    "opciones": [
+      "a) Física.",
+      "b) Enlace.",
+      "c) Red.",
+      "d) Transporte.",
+      "e) Aplicación.",
+      "f) Presentación.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema4",
+    "id": 19
+  }
+   ],
+   "tema5":[
+    
+  {
+    "texto": "La dirección 40-5B-D8-61-0E-FD visualizada en la imagen de los parámetros de la Placa de Red Wi Fi corresponde a:",
+    "opciones": [
+      "a) Una Dirección IPv6.",
+      "b) Una Mac Address.",
+      "c) Una Dirección IPv4.",
+      "d) Una Dirección Física.",
+      "e) Una Dirección Lógica.",
+      "f) Ambas a y e.",
+      "g) Ambas b y d.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 6,
+    "multiple": "tema5",
+    "id": 0
+  },
+  {
+    "texto": "En todo cableado tipo ethernet compuesto por cableado UTP Cat 5 / Par trenzado, topología estrella las uniones o conectores son del Tipo:",
+    "opciones": [
+      "a) Conector BNC.",
+      "b) Conector RJ-45.",
+      "c) Transceiver.",
+      "d) Terminador.",
+      "e) Vampiro.",
+      "f) Conector LC.",
+      "g) Conector RJ - 11.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema5",
+    "id": 1
+  },
+  {
+    "texto": "Dentro de una instalación de Cableado Estructurado, en lo que respecta al telecomunications closet podemos afirmar:",
+    "opciones": [
+      "a) Permite la Terminación del Cableado Horizontal.",
+      "b) Permite la Terminación de los troncales de la Red.",
+      "c) Posee los elementos Activos del cableado horizontal.",
+      "d) Se encuentran ubicadas las Entrance Facilities.",
+      "e) Ambas a y c.",
+      "f) Ambas b y d.",
+      "g) Ambas a y b.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema5",
+    "id": 2
+  },
+  {
+    "texto": "La Pérdida de Energía conforme la señal se propaga hacia su destino en medios guiados expresada en Decibeles por unidad de longitud se la denomina:",
+    "opciones": [
+      "a) Ruido Impulsivo.",
+      "b) Distorsión por Atenuación.",
+      "c) Diafonía.",
+      "d) Distorsión por Retardo.",
+      "e) Ruido de línea.",
+      "f) Intermodulación.",
+      "g) Ambas a y b.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema5",
+    "id": 3
+  },
+  {
+    "texto": "Cada Topología combinada con el uso de distintos tipos de enlaces poseen ventajas y desventajas como la incompatibilidad de los medios de transmisión, limitación en el número de estaciones y limitación en el alcance de las redes, esto dio origen a:",
+    "opciones": [
+      "a) La Aparición de los Sistemas Centralizados.",
+      "b) La Aparición de los Sistemas Stand Alone.",
+      "c) El uso exclusivo de Bridges.",
+      "d) La Aparición de las Topologías Híbridas.",
+      "e) La aparición de Topologías en Malla.",
+      "f) Ninguna de las Anteriores es correcta."
+     
+    ],
+    "correcta": 3,
+    "multiple": "tema5",
+    "id": 4
+  },
+  {
+    "texto": "Dentro de las comunicaciones inalámbricas realizadas en una WLan, el access point básicamente corresponde a:",
+    "opciones": [
+      "a) Modem.",
+      "b) Gateway.",
+      "c) Repetidor Multipuerto.",
+      "d)Terminador.",
+      "e) Monitor de red.",
+      "f) Switch.",
+      "g) Router.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema5",
+    "id": 5
+  },
+  {
+    "texto": "Dentro de los componentes de un centro de cómputos, si UD hace un relevamiento de equipos a conectar (Granja de Servidores), Kilovatios que consumen y tiempo de autonomía necesarios para apagarlos ordenadamente, está previendo adqu",
+    "opciones": [
+      "a) Un Access Point.",
+      "b) Un Gateway.",
+      "c) Un Router.",
+      "d) Un Terminador.",
+      "e) Una UPS.",
+      "f) Un Switch.",
+      "g) Un Access Server.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema5",
+    "id": 6
+  },
+  {
+    "texto": "Dentro de un Segmento de una Red LAN, el elemento activo que trabaja en capa 2 (Modelo OSI) que conecta bocas de red (Conectores RJ 45) dentro de una habitación con áreas de trabajo y se caracteriza por realizar microsegmentación se lo denomina:",
+    "opciones": [
+      "a) Concentrador.",
+      "b) Switch.",
+      "c) Router.",
+      "d) Access Point.",
+      "e) Media Converter.",
+      "f) Gateway.",
+      "g) Todas las anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema5",
+    "id": 7
+  },
+  {
+    "texto": "El Elemento activo de una red que tiene como propósito examinar los paquetes entrantes (datos de la capa 3), elegir cuál es la mejor ruta a través de una tabla y luego conmutarlos hacia el puerto de salida adecuad",
+    "opciones": [
+      "a) Access Point.",
+      "b) Gateway.",
+      "c) Router.",
+      "d)Terminador.",
+      "e) UPS.",
+      "f) Switch.",
+      "g) Access Server.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema5",
+    "id": 8
+  },
+  {
+    "texto": "Dentro del Cableado Horizontal de cable multipar categoría 5e, en cuanto a los parámetros de conexión, cuando nos referimos a Wire Map estamos hablando de:",
+    "opciones": [
+      "a) Diferencia de Intensidad de la Señal por par excitado.",
+      "b) Transferencia de Señal de un par excitado a otros pares.",
+      "c) Orden de conexionado de los pares o Pin Out.",
+      "d) Frecuencia de barrido horizontal.",
+      "e) Ambas a y b.",
+      "f) Ambas c y d.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema5",
+    "id": 9
+  }, {
+    "texto": "Dentro de los medios de transmisión el uso de la fibra óptica monomodo utiliza como medio de transmisión de señales:",
+    "opciones": [
+      "a) Energía Electromagnética.",
+      "b) Leds como fuente de luz.",
+      "c) Láseres como fuente de luz.",
+      "d) Ultrasonido.",
+      "e) Ambas a y d.",
+      "f) Ambas b y c.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema5",
+    "id": 10
+  },
+  {
+    "texto": "Dentro de una instalación de Cableado Estructurado, Existe un lugar o dependencia por donde ingresa la señal de comunicaciones contratada a la Telco o ISP. Dicho lugar se lo denomina:",
+    "opciones": [
+      "a) Acometida.",
+      "b) Work Área o Área de trabajo.",
+      "c) Montante.",
+      "d) Pleno.",
+      "e) Ducto.",
+      "f) Equipment Room.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema5",
+    "id": 11
+  },
+  {
+    "texto": "Dentro del modelo OSI, la capa que proporciona el mecanismo de direcciones que permite entregar los mensajes entre los nodos correctos y traduce los mensajes de las capas superiores en bits que puedan ser transmisibles por la capa física corresponde a:",
+    "opciones": [
+      "a) Transporte.",
+      "b) Aplicación.",
+      "c) Física.",
+      "d) Red.",
+      "e) Presentación.",
+      "f) Enlace.",
+      "g) Host a Host.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema5",
+    "id": 12
+  },
+  {
+    "texto": "La Universidad Nacional del Cipolletti posee en la Actualidad 5 Edificios en la Ciudad de Neuquén dentro un Área de 10 Kilómetros cuadrados conectados por un Anillo de Fibra Óptica que le permite una conexión dedicada... Dicha Distribución Geográfica corresponde a:",
+    "opciones": [
+      "a) LAN.",
+      "b) MAN.",
+      "c) WAN.",
+      "d) SAN.",
+      "e) PAN.",
+      "f) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema5",
+    "id": 13
+  },
+  {
+    "texto": "La Especificación implementada en software, hardware o una combinación de ambos, capaz de transformar un archivo con un flujo de datos (stream) o una señal... se la denomina:",
+    "opciones": [
+      "a) Ruido.",
+      "b) Diafonía.",
+      "c) Codec.",
+      "d) FDMA.",
+      "e) TDMA.",
+      "f) Celda.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema5",
+    "id": 14
+  },
+  {
+    "texto": "Dentro de una LAN basada en Espectro Disperso o WLAN la interfaz de la computadora que conecta a la red puede corresponder a:",
+    "opciones": [
+      "a) PCI card link.",
+      "b) Pcmcia card link.",
+      "c) USB card link.",
+      "d) Switch.",
+      "e) Router.",
+      "f) Hay más de una respuesta correcta.",
+      "g) Todas las anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema5",
+    "id": 15
+  },
+  {
+    "texto": "Un Bridge está compuesto por uno o dos elementos activos que se utilizan para separar lógicamente segmentos de una Red. De acuerdo con el Modelo OSI el bridge trabaja en la capa:",
+    "opciones": [
+      "a) Física.",
+      "b) Enlace.",
+      "c) Red.",
+      "d) Transporte.",
+      "e) Aplicación.",
+      "f) Presentación.",
+      "g) Todas las Anteriores son correctas.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema5",
+    "id": 16
+  },
+  {
+    "texto": "Dentro de los componentes de una red HAN con domótica X-10 para el control de componentes ambientales como puertas, cortinas y luces... debemos instalar como elemento activo:",
+    "opciones": [
+      "a) Un Access Point.",
+      "b) Un Gateway.",
+      "c) Un Router.",
+      "d) Un Hub.",
+      "e) Un Brigde.",
+      "f) Un Switch.",
+      "g) Un Access Server.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema5",
+    "id": 17
+  },
+  {
+    "texto": "El multiplexor permite compartir un mismo medio de transmisión a través de las técnicas de:",
+    "opciones": [
+      "a) Multiplexación por División Sincrónica.",
+      "b) Multiplexación por División Asincrónica",
+      "c) Multiplexación por División de Frecuencias.",
+      "d) Multiplexación por División Semiduplex.",
+      "e) Multiplexación por División de Tiempos.",
+      "f) Multiplexación por División de Fase.",
+      "g) Ambas c y e.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 6,
+    "multiple": "tema5",
+    "id": 18
+  },
+  {
+    "texto": "Dentro de una instalación de Cableado Estructurado, el backbone se coloca con una bandeja entre el techo y el entretecho construido de placas de yeso acústicas. Dicho espacio se lo denomina:",
+    "opciones": [
+      "a) Montante.",
+      "b) Work Área o Área de trabajo.",
+      "c) Acometida.",
+      "d) Pleno.",
+      "e) Ducto.",
+      "f) Antetecho.",
+      "g) Entrance Facilities.",
+      "h) Ninguna de las Anteriores es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema5",
+    "id": 19
+  }
+]
+
+   
+}

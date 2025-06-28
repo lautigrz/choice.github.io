@@ -8,16 +8,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <link rel="icon" href="https://th.bing.com/th/id/R.4edefcc4a6e32e4d9d6f18bd56ec8b93?rik=IK8niRhQM5FSzw&pid=ImgRaw&r=0" type="image/png" />
     
-    <style>
+     <style>
         .correct {
-            color: green;
+            color: rgb(75, 250, 75);
         }
 
         .incorrect {
             color: red;
         }
 
-        body,
+        body{
+            font-family: Arial, sans-serif;
+            background-color: #01172c;
+        }
         form,
         #questions {
             font-size: 1rem;
@@ -41,15 +44,24 @@
             #questions {
                 font-size: 0.8rem;
             }
+            
         }
+
+        .fondo{
+            background-color: #00000077;
+            color: white;
+            border: 1px solid #5e5b5b;
+        }
+        
+    
     </style>
 </head>
 
-<body class="bg-light">
+<body>
     <div class="container my-5">
-        <h1 class="mb-4 text-center" id="practico">Todas las preguntas, TP 1-12</h1>
+        <h1 class="mb-4 text-center text-white" id="practico">Todas las preguntas, TP 1-16</h1>
         <a href="./pages/multiples.html" class="btn btn-primary mb-3">Ir a multiple choice por practico</a>
-
+          <a href="./pages/parcial.html" class="btn btn-primary mb-3">Ir a primer parcial</a>
         <form id="quizForm">
             <div id="questions"></div>
             <div class="text-center">

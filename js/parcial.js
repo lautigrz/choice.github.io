@@ -1,7 +1,7 @@
 let todasLasPreguntas = [];
 const numeroGrupo1 = document.getElementById("grupoSelect");
 
-fetch('../preguntas.json')
+fetch('../parcial.json')
   .then(response => response.json())
   .then(preguntas => {
     todasLasPreguntas = preguntas; // todasLasPreguntas ahora es un objeto con temas
@@ -15,19 +15,11 @@ fetch('../preguntas.json')
 
 function mostrarSegunSeleccion(valor) {
   if (valor === "0") {
-    
-  let preguntasArray = [];
-  Object.values(todasLasPreguntas).forEach(arr => {
-    preguntasArray = preguntasArray.concat(arr);
-  });
-
-
-  const preguntasSimulacro = obtenerPreguntasAleatorias(preguntasArray, 30);
-  mostrarPreguntasLista(preguntasSimulacro);
-   
-  } else if (todasLasPreguntas[`multiple${valor}`]) {
+    // Podés definir un comportamiento para "0"
+    alert("Seleccioná un tema válido.");
+  } else if (todasLasPreguntas[`tema${valor}`]) {
      
-    mostrarPreguntasLista(todasLasPreguntas[`multiple${valor}`]);
+    mostrarPreguntasLista(todasLasPreguntas[`tema${valor}`]);
   } else {
     alert("Tema no encontrado.");
   }
@@ -51,37 +43,25 @@ function mostrarPreguntas(numeroGrupo) {
 
 
   grupo.forEach((pregunta, i) => {
-
-    let contadorMultiple = 1;
-    console.log("contadorMultiple =", contadorMultiple);
-    console.log("pregunta.id =", pregunta.id);
-
-
     const div = document.createElement("div");
-   div.classList.add("mb-4", "p-3", "border", "rounded", "fondo", "shadow-sm");
-
+    div.classList.add("mb-4", "p-3", "rounded", "fondo", "shadow-sm");
 
     div.innerHTML = `<strong>${pregunta.texto}</strong><br>
         <div class="mt-3 text-center">
-          <img src="../images/multiple${pregunta.multiple}/image${pregunta.id}.png" class="img-fluid rounded" alt="Imagen de la pregunta ${i}">
+          <img src="../images/${pregunta.multiple}/image${pregunta.id}.png" class="img-fluid rounded" alt="Imagen de la pregunta ${i}">
         </div>`;
 
     pregunta.opciones.forEach((opcion, j) => {
       div.innerHTML += `
-         <div class="form-check my-2">
-  <input class="form-check-input" type="radio" name="pregunta${i}" id="p${i}o${j}" value="${j}">
-  <label class="form-check-label ms-2" for="p${i}o${j}">
-    ${opcion}
-  </label>
-</div>
-
-
+              <div class="form-check"><br>
+                <input class="form-check-input" type="radio" name="pregunta${i}" id="p${i}o${j}" value="${j}">
+                <label class="form-check-label" for="p${i}o${j}">${opcion}</label>
+              </div>
             `;
     });
 
   
     preguntasDiv.appendChild(div);
-
   });
 
   form.onsubmit = function (e) {
@@ -129,20 +109,18 @@ function obtenerPreguntasAleatorias(preguntas, cantidad) {
 
   return seleccionadas;
 }
-function mostrarPreguntasLista(preguntas, valor) {
+function mostrarPreguntasLista(preguntas) {
   const form = document.getElementById("quizForm");
   const result = document.getElementById("result");
   const questionsDiv = document.getElementById("questions");
   questionsDiv.innerHTML = '';
 
-console.log("Preguntas recibidas:", preguntas);
-
   preguntas.forEach((pregunta, i) => {
     const div = document.createElement("div");
-    div.classList.add("mb-4", "p-3", "rounded", "fondo", "shadow-sm");
+    div.classList.add("mb-4", "p-3", "fondo", "shadow-sm");
 
     div.innerHTML = `<strong>${pregunta.texto}</strong><br>
-    <img src="../images/multiple${pregunta.multiple}/image${pregunta.id}.png" class="img-fluid rounded d-block mx-auto" alt="No tiene imagen esta pregunta">
+    <img src="../images/${pregunta.multiple}/image${pregunta.id}.png" class="img-fluid rounded d-block mx-auto" alt="Imagen de la pregunta ${i}">
 
     `;
 
@@ -156,10 +134,6 @@ console.log("Preguntas recibidas:", preguntas);
     });
 
     questionsDiv.appendChild(div);
-
-
-
-
   });
 
   form.onsubmit = function (e) {
